@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modern Interactive Finance Quiz</title>
+    <title>Modern Interactive Economics Quiz</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -121,12 +121,12 @@
     <div id="quiz-container" class="w-full max-w-2xl main-container shadow-2xl rounded-2xl p-6 md:p-8">
         
         <div id="loading-screen" class="text-center p-8">
-            <h1 class="text-3xl font-bold text-gradient mb-4">Finance Quiz</h1>
+            <h1 class="text-3xl font-bold text-gradient mb-4">Economics Quiz</h1>
             <p class="text-gray-400">Loading...</p>
         </div>
 
         <div id="chapter-selection-screen" class="hidden">
-            <h1 class="text-3xl md:text-4xl font-extrabold text-center text-gradient mb-2">Finance Quiz</h1>
+            <h1 class="text-3xl md:text-4xl font-extrabold text-center text-gradient mb-2">Economics Quiz</h1>
             <p class="text-gray-400 text-center mb-8">Choose a chapter to start your learning journey.</p>
             <div id="chapter-buttons-container" class="space-y-4 stagger-in"></div>
         </div>
@@ -216,22 +216,22 @@
         // --- CONFIGURATION ---
         const chaptersConfig = {
             'chapter1': { 
-                title: 'Finance Chapter 1', 
+                title: 'Chapter 1 Ten Principles of Economics', 
                 icon: '<svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" /></svg>',
                 file: 'chapter1.json' 
             },
             'chapter2': { 
-                title: 'Time Value of Money', 
+                title: ' chapter 2 Measuring a Nation's Income', 
                 icon: '<svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" /></svg>',
                 file: 'chapter2.json'
             },
             'chapter11': {
-                title: 'Capital Budgeting',
+                title: 'Chapter 4 The Market Forces of Supply and Demand',
                 icon: '<svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" /></svg>',
                 file: 'chapter11.json'
             },
             'chapter6': {
-                title: 'Risk & Return',
+                title: 'Chapter 5 Elasticity and Its Application',
                 icon: '<svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" /></svg>',
                 file: 'chapter6.json'
             }
