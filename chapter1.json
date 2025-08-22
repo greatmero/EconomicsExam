@@ -1,0 +1,249 @@
+{
+    "title": "Chapter 1: Ten Principles of Economics",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-8 w-8\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" /></svg>",
+    "sectors": {
+        "sector1": {
+            "title": "Ten Principles of Economics (General Questions)",
+            "questions": [
+                {
+                    "q_num": 1,
+                    "topic": "Economy",
+                    "type": "mcq",
+                    "question": "The English word that comes from the Greek word for \"one who manages a household\" is",
+                    "options": [
+                        "a. market.",
+                        "b. consumer.",
+                        "c. producer.",
+                        "d. economy."
+                    ],
+                    "answer": "d. economy.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 2,
+                    "topic": "Economy",
+                    "type": "mcq",
+                    "question": "The word \"economy\" comes from the Greek word oikonomos, which means",
+                    "options": [
+                        "a. \"environment.\"",
+                        "b. \"production.\"",
+                        "c. \"one who manages a household.\"",
+                        "d. \"one who makes decisions.\""
+                    ],
+                    "answer": "c. \"one who manages a household.\"",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 3,
+                    "topic": "Resources | Scarcity",
+                    "type": "mcq",
+                    "question": "Resources are",
+                    "options": [
+                        "a. scarce for households but plentiful for economies.",
+                        "b. plentiful for households but scarce for economies.",
+                        "c. scarce for households and scarce for economies.",
+                        "d. plentiful for households and plentiful for economies."
+                    ],
+                    "answer": "c. scarce for households and scarce for economies.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 4,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "In considering how to allocate its scarce resources among its various members, a household considers",
+                    "options": [
+                        "a. each member's abilities.",
+                        "b. each member's efforts.",
+                        "c. each member's desires.",
+                        "d. all of the above"
+                    ],
+                    "answer": "d. all of the above",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 5,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "Economics deals primarily with the concept of",
+                    "options": [
+                        "a. scarcity.",
+                        "b. money.",
+                        "c. poverty.",
+                        "d. banking."
+                    ],
+                    "answer": "a. scarcity.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 6,
+                    "topic": "Economics",
+                    "type": "mcq",
+                    "question": "Which of the following is correct?",
+                    "options": [
+                        "a. The word economy comes from the Greek word for \"rational thinker.\"",
+                        "b. Economists study the management of scarce resources.",
+                        "c. Because economists believe that people pursue their best interests, they are not interested in how people interact.",
+                        "d. All of the above are correct."
+                    ],
+                    "answer": "b. Economists study the management of scarce resources.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 7,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "The overriding reason why households and societies face many decisions is that",
+                    "options": [
+                        "a. resources are scarce.",
+                        "b. goods and services are not scarce.",
+                        "c. incomes fluctuate with business cycles.",
+                        "d. people, by nature, tend to disagree."
+                    ],
+                    "answer": "a. resources are scarce.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 8,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "The phenomenon of scarcity stems from the fact that",
+                    "options": [
+                        "a. most economies' production methods are not very good.",
+                        "b. in most economies, wealthy people consume disproportionate quantities of goods and services.",
+                        "c. governments restrict production of too many goods and services.",
+                        "d. resources are limited."
+                    ],
+                    "answer": "d. resources are limited.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 9,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "Approximately what percentage of the world's economies experience scarcity?",
+                    "options": [
+                        "a. 10%",
+                        "b. 40%",
+                        "c. 85%",
+                        "d. 100%"
+                    ],
+                    "answer": "d. 100%",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 10,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "When a society cannot produce all the goods and services people wish to have, it is said that the economy is experiencing",
+                    "options": [
+                        "a. scarcity.",
+                        "b. surpluses.",
+                        "c. inefficiencies.",
+                        "d. inequalities."
+                    ],
+                    "answer": "a. scarcity.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 11,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "Which of the following products would be considered scarce?",
+                    "options": [
+                        "a. automobiles",
+                        "b. baseballs autographed by Babe Ruth",
+                        "c. pickles",
+                        "d. All of the above are correct."
+                    ],
+                    "answer": "d. All of the above are correct.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 12,
+                    "topic": "Economies Scarcity",
+                    "type": "mcq",
+                    "question": "Economics is the study of",
+                    "options": [
+                        "a. production methods.",
+                        "b. how society manages its scarce resources.",
+                        "c. how households decide who performs which tasks.",
+                        "d. the interaction of business and government."
+                    ],
+                    "answer": "b. how society manages its scarce resources.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 13,
+                    "topic": "Resource allocation",
+                    "type": "mcq",
+                    "question": "In most societies, resources are allocated by",
+                    "options": [
+                        "a. a single central planner.",
+                        "b. a small number of central planners.",
+                        "c. those firms that use resources to provide goods and services.",
+                        "d. the combined actions of millions of households and firms."
+                    ],
+                    "answer": "d. the combined actions of millions of households and firms.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 14,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "Oil is considered to be a non-renewable energy source. Oil",
+                    "options": [
+                        "a. is an unlimited resource.",
+                        "b. is a scarce resource.",
+                        "c. is not a productive resource.",
+                        "d. has no opportunity cost."
+                    ],
+                    "answer": "b. is a scarce resource.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 15,
+                    "topic": "Scarcity",
+                    "type": "mcq",
+                    "question": "Which of the following is not an example of scarcity?",
+                    "options": [
+                        "a. Only some people can afford to buy a Ferrari.",
+                        "b. Every individual in society cannot attain the highest standard of living to which he or she might aspire.",
+                        "c. Doug has an unlimited supply of apples in his orchard.",
+                        "d. Each member of a household cannot get everything he or she wants."
+                    ],
+                    "answer": "c. Doug has an unlimited supply of apples in his orchard.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 16,
+                    "topic": "Economics",
+                    "type": "mcq",
+                    "question": "Which of the following is a decision that economists study?",
+                    "options": [
+                        "a. how much people work",
+                        "b. what people buy",
+                        "c. how much money people save",
+                        "d. All of the above are correct."
+                    ],
+                    "answer": "d. All of the above are correct.",
+                    "explanation": ""
+                },
+                {
+                    "q_num": 17,
+                    "topic": "Economics",
+                    "type": "mcq",
+                    "question": "Which of the following is an example of something economists study?",
+                    "options": [
+                        "a. Kate chooses to work overtime to earn extra income for her family.",
+                        "b. Ryan sells his economics textbook from last semester to his roommate for half the price of a new textbook.",
+                        "c. The unemployment rate in the United States is at its highest level in over fifty years.",
+                        "d. All of the above are correct."
+                    ],
+                    "answer": "d. All of the above are correct.",
+                    "explanation": ""
+                }
+            ]
+        }
+    }
+}
