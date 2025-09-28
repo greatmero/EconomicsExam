@@ -137,6 +137,20 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 2,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "Which of the following is a characteristic of a monopoly?",
+                         "options": [
+                              "low fixed costs as a portion of total costs",
+                              "free entry and exit",
+                              "barriers to entry",
+                              "declining marginal cost"
+                         ],
+                         "answer": "barriers to entry",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 3,
                          "topic": "Monopoly",
                          "type": "mcq",
@@ -151,10 +165,52 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 4,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "A monopoly market is characterized by",
+                         "options": [
+                              "many buyers and sellers.",
+                              "“natural” products.",
+                              "barriers to entry.",
+                              "a Nash equilibrium."
+                         ],
+                         "answer": "barriers to entry.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 5,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "A benefit of a monopoly is",
+                         "options": [
+                              "lower prices.",
+                              "a wide variety of similar products.",
+                              "decreasing long-run average total costs.",
+                              "greater creativity by authors who can copyright their novels."
+                         ],
+                         "answer": "greater creativity by authors who can copyright their novels.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 6,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "A benefit of a monopoly is",
+                         "options": [
+                              "efficient production.",
+                              "decreasing long-run marginal costs.",
+                              "profit that can be invested in research and development.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "profit that can be invested in research and development.",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 7,
                          "topic": "Monopoly",
                          "type": "mcq",
-                         "question": "Which of the following are necessary characteristics of a monopoly?\n(i),The firm is the sole seller of its product.\n(ii),The firm's product does not have close substitutes.\n(iii),The firm generates a large economic profit.\n(iv),The firm is located in a small geographic market.",
+                         "question": "Which of the following are necessary characteristics of a monopoly?\n(i) The firm is the sole seller of its product.\n(ii) The firm's product does not have close substitutes.\n(iii) The firm generates a large economic profit.\n(iv) The firm is located in a small geographic market.",
                          "options": [
                               "(i) and (ii) only",
                               "(i) and (iii) only",
@@ -162,6 +218,48 @@
                               "\"(i), (ii), (iii), and (iv)\""
                          ],
                          "answer": "(i) and (ii) only",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 8,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "The simplest way for a monopoly to arise is for a single firm to",
+                         "options": [
+                              "decrease its price below its competitors’ prices.",
+                              "decrease production to increase demand for its product.",
+                              "make pricing decisions jointly with other firms.",
+                              "own a key resource."
+                         ],
+                         "answer": "own a key resource.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 9,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "Suppose most people regard emeralds, rubies, and sapphires as close substitutes for diamonds. Then DeBeers, a large diamond company, has",
+                         "options": [
+                              "less incentive to advertise than it would otherwise have.",
+                              "less market power than it would otherwise have.",
+                              "more control over the price of diamonds than it would otherwise have.",
+                              "higher profits than it would otherwise have."
+                         ],
+                         "answer": "less market power than it would otherwise have.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 10,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "Which of the following is not a reason for the existence of a monopoly?",
+                         "options": [
+                              "sole ownership of a key resource",
+                              "patents",
+                              "copyrights",
+                              "diseconomies of scale"
+                         ],
+                         "answer": "diseconomies of scale",
                          "explanation": ""
                     },
                     {
@@ -179,6 +277,62 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 12,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "Which of the following would be most likely to have monopoly power?",
+                         "options": [
+                              "a national florist",
+                              "an online bookstore",
+                              "a local restaurant",
+                              "a local electrical cooperative"
+                         ],
+                         "answer": "a local electrical cooperative",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 13,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "A firm that is the sole seller of a product without close substitutes is",
+                         "options": [
+                              "perfectly competitive.",
+                              "monopolistically competitive.",
+                              "an oligopolist.",
+                              "a monopolist."
+                         ],
+                         "answer": "a monopolist.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 14,
+                         "topic": "Monopoly",
+                         "type": "mcq",
+                         "question": "Most markets are not monopolies in the real world because",
+                         "options": [
+                              "firms usually face downward-sloping demand curves.",
+                              "supply curves slope upward.",
+                              "firms usually equate price with marginal cost.",
+                              "there are reasonable substitutes for most goods."
+                         ],
+                         "answer": "there are reasonable substitutes for most goods.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 15,
+                         "topic": "Monopoly  | Natural monopoly",
+                         "type": "mcq",
+                         "question": "Which of the following statements is not correct?",
+                         "options": [
+                              "Consumers will likely benefit in the form of lower prices from buying a product made by a natural monopoly than if the market were served by several firms.",
+                              "Monopolists typically charge higher prices than competitive firms.",
+                              "Monopolists typically produce larger quantities of output than competitive firms.",
+                              "Consumers may benefit from monopolies if the firms invest their higher profits into something that benefits society such as medical research."
+                         ],
+                         "answer": "Monopolists typically produce larger quantities of output than competitive firms.",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 16,
                          "topic": "Barriers to entry",
                          "type": "mcq",
@@ -193,10 +347,80 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 17,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Which of the following is not an example of a barrier to entry?",
+                         "options": [
+                              "\"Mighty Mitch’s Mining Company owns a unique plot of land in Tanzania, under which lies the only large deposit of Tanzanite in the world.\"",
+                              "A college student starts a part-time tutoring business.",
+                              "A novelist obtains a copyright for her new book.",
+                              "A taxi cab driver in New York City obtains a license to legally provide transportation in New York City."
+                         ],
+                         "answer": "A college student starts a part-time tutoring business.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 18,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Which of the following is not an example of a barrier to entry?",
+                         "options": [
+                              "A soybean farmer is the first in her county to use a new brand of fertilizer.",
+                              "Microsoft obtains a copyright for its Windows operating system.",
+                              "A pharmaceutical company obtains a patent for a new medication to treat migraine headaches.",
+                              "A taxi cab driver in New York City obtains a license to legally provide transportation in New York City."
+                         ],
+                         "answer": "A soybean farmer is the first in her county to use a new brand of fertilizer.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 19,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Which of the following is an example of a barrier to entry?",
+                         "options": [
+                              "Tom charges a higher price than his competitors for his house-painting services.",
+                              "Dick obtains a copyright for the new computer game that he invented.",
+                              "Harry offers free concerts on Sunday afternoons as a form of advertising.",
+                              "Larry charges a lower price than his competitors for his lawn-mowing services."
+                         ],
+                         "answer": "Dick obtains a copyright for the new computer game that he invented.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 20,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Which of the following is an example of a barrier to entry?",
+                         "options": [
+                              "Dawn charges a higher price than her competitors for her landscape-architecture services.",
+                              "Rhianna obtains a copyright for a short story that she wrote and published.",
+                              "Debbie offers free samples of her chocolate chip cookies to attract new customers.",
+                              "Bev charges a lower price than her competitors for her desktop-publishing services."
+                         ],
+                         "answer": "Rhianna obtains a copyright for a short story that she wrote and published.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 21,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Which of the following is an example of a barrier to entry?",
+                         "options": [
+                              "Matthew offers free samples of his latest flavored coffee drink to entice customers to buy a cup.",
+                              "Mark charges a lower price to students than to faculty for his tattoo services.",
+                              "Luke charges a higher hourly price to business students than to liberal arts students for his economics tutoring.",
+                              "John obtained a copyright for the song he wrote and recorded."
+                         ],
+                         "answer": "John obtained a copyright for the song he wrote and recorded.",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 22,
                          "topic": "Barriers to entry",
                          "type": "mcq",
-                         "question": "Which of the following is an example of a barrier to entry?\n(i),A key resource is owned by a single firm.\n(ii),The costs of production make a single producer more efficient than a large number of producers.\n(iii),The government has given the existing monopolist the exclusive right to produce the good.",
+                         "question": "Which of the following is an example of a barrier to entry?\n(i) A key resource is owned by a single firm.\n(ii) The costs of production make a single producer more efficient than a large number of producers.\n(iii) The government has given the existing monopolist the exclusive right to produce the good.",
                          "options": [
                               "(i) and (ii) only",
                               "(ii) and (iii) only",
@@ -207,8 +431,78 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 23,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "A fundamental source of monopoly market power arises from",
+                         "options": [
+                              "perfectly elastic demand.",
+                              "perfectly inelastic demand.",
+                              "barriers to entry.",
+                              "\"availability of \"free\" natural resources, such as water or air.\""
+                         ],
+                         "answer": "barriers to entry.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 24,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "The fundamental cause of monopoly is",
+                         "options": [
+                              "incompetent management in competitive firms.",
+                              "the zero-profit feature of long-run equilibrium in competitive markets.",
+                              "advertising.",
+                              "barriers to entry."
+                         ],
+                         "answer": "barriers to entry.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 25,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Sizable economic profits can persist over time under monopoly if the monopolist",
+                         "options": [
+                              "produces that output where average total cost is at a maximum.",
+                              "is protected by barriers to entry.",
+                              "operates as a price taker rather than a price maker.",
+                              "earns revenues that exceed variable costs."
+                         ],
+                         "answer": "is protected by barriers to entry.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 26,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Which of the following is not an example of a barrier to entry?",
+                         "options": [
+                              "Al owns the only parcel of lakeside property with a beach that is safe for swimming. He charges admission to neighbors who want to use the beach.",
+                              "Meredith owns the copyright to a popular song. She receives royalties every time a radio station plays her song.",
+                              "Matt sells computers to his state government for use in their legislative sessions. He has sold computers for ten years.",
+                              "Anne owns the patent for a new running shoe. She receives payments from the company who manufactures the shoes."
+                         ],
+                         "answer": "Matt sells computers to his state government for use in their legislative sessions. He has sold computers for ten years.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 27,
+                         "topic": "Barriers to entry",
+                         "type": "mcq",
+                         "question": "Patents, copyrights, and trademarks",
+                         "options": [
+                              "are examples of government-created monopolies.",
+                              "are examples of barriers to entry.",
+                              "allow their owners to charge higher prices.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "All of the above are correct.",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 28,
-                         "topic": "Patents | Copyrights",
+                         "topic": "Patents  | Copyrights",
                          "type": "mcq",
                          "question": "Patent and copyright laws are major sources of",
                          "options": [
@@ -221,8 +515,64 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 29,
+                         "topic": "Patents  | Copyrights",
+                         "type": "mcq",
+                         "question": "Encouraging firms to invest in research and development and individuals to engage in creative endeavors such as writing novels is one justification for",
+                         "options": [
+                              "resource monopolies.",
+                              "natural monopolies.",
+                              "government-created monopolies.",
+                              "breaking up monopolies into smaller firms."
+                         ],
+                         "answer": "government-created monopolies.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 30,
+                         "topic": "Patents  | Copyrights",
+                         "type": "mcq",
+                         "question": "A government-created monopoly arises when",
+                         "options": [
+                              "government spending in a certain industry gives rise to monopoly power.",
+                              "the government exercises its market control by encouraging competition among sellers.",
+                              "the government gives a firm the exclusive right to sell some good or service.",
+                              "Both a and c are correct."
+                         ],
+                         "answer": "the government gives a firm the exclusive right to sell some good or service.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 31,
+                         "topic": "Patents  | Copyrights",
+                         "type": "mcq",
+                         "question": "Which of the following statements is true about patents and copyrights?\n(i) They have benefits and costs.\n(ii) They lead to higher prices.\n(iii) They enhance the ability of monopolists to earn above-average profits.",
+                         "options": [
+                              "(i) and (ii) only",
+                              "(ii) and (iii) only",
+                              "(ii) only",
+                              "\"(i), (ii), and (iii)\""
+                         ],
+                         "answer": "\"(i), (ii), and (iii)\"",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 32,
+                         "topic": "Patents  | Copyrights",
+                         "type": "mcq",
+                         "question": "The laws governing patents and copyrights",
+                         "options": [
+                              "promote monopolies.",
+                              "\"are intended to serve private interests, not the public’s interest.\"",
+                              "have costs but not benefits.",
+                              "eliminate the need for firms to engage in research and development."
+                         ],
+                         "answer": "promote monopolies.",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 33,
-                         "topic": "Patents | Copyrights",
+                         "topic": "Patents  | Copyrights",
                          "type": "mcq",
                          "question": "A benefit to society of the patent and copyright laws is that those laws",
                          "options": [
@@ -235,10 +585,94 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 34,
+                         "topic": "Patents  | Copyrights",
+                         "type": "mcq",
+                         "question": "Patent and copyright laws encourage",
+                         "options": [
+                              "creative activity.",
+                              "research and development.",
+                              "competition among firms.",
+                              "Both a and b are correct."
+                         ],
+                         "answer": "Both a and b are correct.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 35,
+                         "topic": "Patents  | Copyrights",
+                         "type": "mcq",
+                         "question": "Patent and copyright laws encourage",
+                         "options": [
+                              "creative activity.",
+                              "lower prices due to decreasing average total costs.",
+                              "competition among firms.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "creative activity.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 36,
+                         "topic": "Patents",
+                         "type": "mcq",
+                         "question": "Allowing an inventor to have the exclusive rights to market her new invention will lead to\n(i) a product that is priced higher than it would be without the exclusive rights.\n(ii) desirable behavior in the sense that inventors are encouraged to invent.\n(iii) higher profits for the inventor.",
+                         "options": [
+                              "(i) and (ii) only",
+                              "(ii) and (iii) only",
+                              "(i) and (iii) only",
+                              "\"(i), (ii), and (iii)\""
+                         ],
+                         "answer": "\"(i), (ii), and (iii)\"",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 37,
+                         "topic": "Patents",
+                         "type": "mcq",
+                         "question": "Granting a pharmaceutical company a patent for a new medicine will lead to\n(i) a product that is priced higher than it would be without the exclusive rights.\n(ii) incentives for pharmaceutical companies to invest in research and development.\n(iii) higher quantities of output than without the patent.",
+                         "options": [
+                              "(i) and (ii) only",
+                              "(ii) and (iii) only",
+                              "(i) and (iii) only",
+                              "\"(i), (ii), and (iii)\""
+                         ],
+                         "answer": "(i) and (ii) only",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 38,
+                         "topic": "Patents",
+                         "type": "mcq",
+                         "question": "Drug companies are allowed to be monopolists in the drugs they discover in order to",
+                         "options": [
+                              "allow drug companies to charge a price that is equal to their marginal cost.",
+                              "discourage new firms from entering the drug market.",
+                              "encourage research.",
+                              "allow the government to earn patent revenue."
+                         ],
+                         "answer": "encourage research.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 39,
+                         "topic": "Copyrights",
+                         "type": "mcq",
+                         "question": "Authors are allowed to be monopolists in the sale of their books in order to",
+                         "options": [
+                              "encourage authors to write more and better books.",
+                              "correct for the negative externalities that the Internet and television impose.",
+                              "satisfy literary advocacy groups that exercise their lobbying power.",
+                              "promote a society in which people think for themselves and learn from whichever books they please."
+                         ],
+                         "answer": "encourage authors to write more and better books.",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 40,
                          "topic": "Natural monopoly",
                          "type": "mcq",
-                         "question": "Refer to Figure 15-1. The shape of the average total cost curve reveals information about the nature of the barrier to entry that might exist in a monopoly market. Which of the following monopoly types best coincides with the figure?",
+                         "question": "Refer to Figure 15-1 . The shape of the average total cost curve reveals information about the nature of the barrier to entry that might exist in a monopoly market. Which of the following monopoly types best coincides with the figure?",
                          "options": [
                               "ownership of a key resource by a single firm",
                               "natural monopoly",
@@ -249,10 +683,66 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 41,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Refer to Figure 15-1 . The shape of the average total cost curve in the figure suggests an opportunity for a profit-maximizing monopolist to take advantage of",
+                         "options": [
+                              "economies of scale.",
+                              "diseconomies of scale.",
+                              "diminishing marginal product.",
+                              "increasing marginal cost."
+                         ],
+                         "answer": "economies of scale.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 42,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Refer to Figure 15-1. Considering the relationship between average total cost and marginal cost, the marginal cost curve for this firm",
+                         "options": [
+                              "must lie entirely above the average total cost curve.",
+                              "must lie entirely below the average total cost curve.",
+                              "must be upward sloping.",
+                              "does not exist."
+                         ],
+                         "answer": "must lie entirely below the average total cost curve.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 43,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Refer to Figure 15-1. Considering the relationship between average total cost and marginal cost, the marginal cost curve for this firm must",
+                         "options": [
+                              "lie entirely above the average total cost curve.",
+                              "lie entirely below the average total cost curve.",
+                              "be U-shaped.",
+                              "be horizontal."
+                         ],
+                         "answer": "lie entirely below the average total cost curve.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 44,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Scenario 15-1\nConsider a transportation corporation named C.R. Evans that has just completed the development of a new subway system in a medium-sized town in the Northwest. Currently, there are plenty of seats on the subway, and it is never crowded. Its capacity far exceeds the needs of the city. After just a few years of operation, the shareholders of C.R. Evans experienced incredible rates of return on their investment due to the profitability of the corporation.\nRefer to Scenario 15-1 . Which of the following statements is most likely to be true?\n(i) New entrants to the market know they will have a smaller market share than C.R. Evans currently has.\n(ii) C.R. Evans is most likely experiencing increasing average total cost.\n(iii) C.R. Evans is a natural monopoly.",
+                         "options": [
+                              "(i) and (ii) only",
+                              "(ii) and (iii) only",
+                              "(i) and (iii) only",
+                              "\"(i), (ii), and (iii)\""
+                         ],
+                         "answer": "(i) and (iii) only",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 45,
                          "topic": "Natural monopoly",
                          "type": "mcq",
-                         "question": "Scenario 15-1: Consider a transportation corporation named C.R. Evans that has just completed the development of a new subway system in a medium-sized town in the Northwest. Currently, there are plenty of seats on the subway, and it is never crowded. Its capacity far exceeds the needs of the city. After just a few years of operation, the shareholders of C.R. Evans experienced incredible rates of return on their investment due to the profitability of the corporation.\n\nRefer to Scenario 15-1. Which of the following statements is most likely to be true?\n(i),New entrants to the market know they will have a smaller market share than C.R. Evans currently has.\n(ii),C.R. Evans is most likely experiencing decreasing average total cost.\n(iii),C.R. Evans is a natural monopoly.",
+                         "question": "Scenario 15-1\nConsider a transportation corporation named C.R. Evans that has just completed the development of a new subway system in a medium-sized town in the Northwest. Currently, there are plenty of seats on the subway, and it is never crowded. Its capacity far exceeds the needs of the city. After just a few years of operation, the shareholders of C.R. Evans experienced incredible rates of return on their investment due to the profitability of the corporation.\nRefer to Scenario 15-1 . Which of the following statements is most likely to be true?\n(i) New entrants to the market know they will have a smaller market share than C.R. Evans currently has.\n(ii) C.R. Evans is most likely experiencing decreasing average total cost.\n(iii) C.R. Evans is a natural monopoly.",
                          "options": [
                               "(i) and (ii) only",
                               "(ii) and (iii) only",
@@ -260,6 +750,118 @@
                               "\"(i), (ii), and (iii)\""
                          ],
                          "answer": "\"(i), (ii), and (iii)\"",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 46,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Scenario 15-2\nConsider a local, privately-owned electrical cooperative named Minny County Megawatts (MCM, LLC). MCM has just completed a natural-gas-burning electrical power plant in the Midwest. Currently, MCM can meet the electricity needs of all residents in the county. In fact, its capacity far exceeds the needs of the county. After just a few years of operation, the shareholders of MCM experienced incredible rates of return on their investment due to the profitability of the corporation.\nRefer to Scenario 15-2 . Which of the following statements is most likely to be true?\n(i) New entrants to the market know they will have a smaller market share than MCM currently has.\n(ii) MCM is most likely experiencing rising marginal cost.\n(iii) MCM is most likely experiencing declining average total cost.\n(iv) MCM is a natural monopoly.",
+                         "options": [
+                              "(i) and (ii) only",
+                              "(i) and (iii) only",
+                              "\"(i), (iii) and (iv) only\"",
+                              "\"(i), (ii), (iii), and (iv)\""
+                         ],
+                         "answer": "\"(i), (iii) and (iv) only\"",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 47,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Scenario 15-2\nConsider a local, privately-owned electrical cooperative named Minny County Megawatts (MCM, LLC). MCM has just completed a natural-gas-burning electrical power plant in the Midwest. Currently, MCM can meet the electricity needs of all residents in the county. In fact, its capacity far exceeds the needs of the county. After just a few years of operation, the shareholders of MCM experienced incredible rates of return on their investment due to the profitability of the corporation.\nRefer to Scenario 15-2 . Which of the following statements is most likely to be true?\n(i) New entrants to the market know they will have a smaller market share than MCM currently has.\n(ii) MCM would experience higher profits if it were government-run.\n(iii) MCM is a natural monopoly.",
+                         "options": [
+                              "(i) and (ii) only",
+                              "(ii) and (iii) only",
+                              "(i) and (iii) only",
+                              "\"(i), (ii), and (iii)\""
+                         ],
+                         "answer": "(i) and (iii) only",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 48,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Scenario 15-2\nConsider a local, privately-owned electrical cooperative named Minny County Megawatts (MCM, LLC). MCM has just completed a natural-gas-burning electrical power plant in the Midwest. Currently, MCM can meet the electricity needs of all residents in the county. In fact, its capacity far exceeds the needs of the county. After just a few years of operation, the shareholders of MCM experienced incredible rates of return on their investment due to the profitability of the corporation.\nRefer to Scenario 15-2 . MCM will continue to be a monopolist in the electricity industry only if",
+                         "options": [
+                              "population growth leads to an increased demand for electricity.",
+                              "there are no new entrants to the market.",
+                              "the price of natural gas decreases.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "there are no new entrants to the market.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 49,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Which of the following is a characteristic of a natural monopoly?",
+                         "options": [
+                              "Fixed costs are typically a small portion of total costs.",
+                              "Average total cost declines over large regions of output.",
+                              "The product sold is a natural resource such as diamonds or water.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "Average total cost declines over large regions of output.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 50,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Which of the following is a characteristic of a natural monopoly?",
+                         "options": [
+                              "Average cost exceeds marginal cost over large regions of output.",
+                              "Increasing the number of firms increases each firm’s average total cost.",
+                              "One firm can supply output at a lower cost than two firms.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "All of the above are correct.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 51,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "A natural monopoly occurs when",
+                         "options": [
+                              "\"the product is sold in its natural state, such as water or diamonds.\"",
+                              "there are economies of scale over the relevant range of output.",
+                              "the firm is characterized by a rising marginal cost curve.",
+                              "\"production requires the use of free natural resources, such as water or air.\""
+                         ],
+                         "answer": "there are economies of scale over the relevant range of output.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 52,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "An industry is a natural monopoly when\n(i) the government assists the firm in maintaining the monopoly.\n(ii) a single firm owns a key resource.\n(iii) a single firm can supply a good or service to an entire market at a smaller cost than could two or more firms.",
+                         "options": [
+                              "(ii) only",
+                              "(iii) only",
+                              "(i) and (ii) only",
+                              "(ii) and (iii) only"
+                         ],
+                         "answer": "(iii) only",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 53,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When a natural monopoly exists, it is",
+                         "options": [
+                              "always cost effective for government-owned firms to produce the product.",
+                              "never cost effective for one firm to produce the product.",
+                              "always cost effective for two or more private firms to produce the product.",
+                              "never cost effective for two or more private firms to produce the product."
+                         ],
+                         "answer": "never cost effective for two or more private firms to produce the product.",
                          "explanation": ""
                     },
                     {
@@ -277,6 +879,160 @@
                          "explanation": ""
                     },
                     {
+                         "q_num": 55,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Natural monopolies differ from other forms of monopoly because they are",
+                         "options": [
+                              "not subject to barriers to entry.",
+                              "not regulated by government.",
+                              "unable to sustain long-run profits.",
+                              "are generally not worried about competition eroding their monopoly position in the market."
+                         ],
+                         "answer": "are generally not worried about competition eroding their monopoly position in the market.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 56,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When a firm's average total cost curve continually declines, the firm is a",
+                         "options": [
+                              "government-created monopoly.",
+                              "natural monopoly.",
+                              "revenue monopoly.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "natural monopoly.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 57,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "A natural monopolist's ability to price its product is",
+                         "options": [
+                              "constrained by the market demand curve.",
+                              "constrained by market supply.",
+                              "not affected by market demand.",
+                              "enhanced by regulatory control of the government."
+                         ],
+                         "answer": "constrained by the market demand curve.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 58,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When an industry is a natural monopoly,",
+                         "options": [
+                              "it is characterized by constant returns to scale.",
+                              "it is characterized by diseconomies of scale.",
+                              "a larger number of firms may lead to a lower average cost.",
+                              "a larger number of firms will lead to a higher average cost."
+                         ],
+                         "answer": "a larger number of firms will lead to a higher average cost.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 59,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "If the distribution of water is a natural monopoly, then\n(i) multiple firms would likely each have to pay large fixed costs to develop their own network of pipes.\n(ii) allowing for competition among different firms in the water-distribution industry is efficient.\n(iii) a single firm can serve the market at the lowest possible average total cost.",
+                         "options": [
+                              "(i) and (ii) only",
+                              "(ii) and (iii) only",
+                              "(i) and (iii) only",
+                              "(iii) only"
+                         ],
+                         "answer": "(i) and (iii) only",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 60,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "A firm that is a natural monopoly",
+                         "options": [
+                              "is not likely to be concerned about new entrants eroding its monopoly power.",
+                              "is taking advantage of economies of scale.",
+                              "would experience a higher average total cost if more firms entered the market.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "All of the above are correct.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 61,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "A firm that is a natural monopoly",
+                         "options": [
+                              "is not likely to be concerned about new entrants eroding its monopoly power.",
+                              "is taking advantage of diseconomies of scale.",
+                              "would experience a lower average total cost if more firms entered the market.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "is not likely to be concerned about new entrants eroding its monopoly power.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 62,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "Additional firms often do not try to compete with a natural monopoly because",
+                         "options": [
+                              "they fear retaliation in the form of pricing wars from the natural monopolist.",
+                              "they are unsure of the size of the market in general.",
+                              "they know they cannot achieve the same low costs that the natural monopolist enjoys.",
+                              "the natural monopoly does not make a large profit."
+                         ],
+                         "answer": "they know they cannot achieve the same low costs that the natural monopolist enjoys.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 63,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When a single firm can supply a product to an entire market at a lower cost than could two or more firms, the industry is called a",
+                         "options": [
+                              "resource industry.",
+                              "exclusive industry.",
+                              "government monopoly.",
+                              "natural monopoly."
+                         ],
+                         "answer": "natural monopoly.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 64,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "A natural monopoly arises when",
+                         "options": [
+                              "there are constant returns to scale over the relevant range of output.",
+                              "there are economies of scale over the relevant range of output.",
+                              "one firm owns a key natural resource.",
+                              "the government gives a single firm the exclusive right to produce a particular good or service."
+                         ],
+                         "answer": "there are economies of scale over the relevant range of output.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 65,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When a firm has a natural monopoly, the firm's",
+                         "options": [
+                              "marginal cost always exceeds its average total cost.",
+                              "total cost curve is horizontal.",
+                              "average total cost curve is downward sloping.",
+                              "marginal cost curve must lie above the firm’s average total cost curve."
+                         ],
+                         "answer": "average total cost curve is downward sloping.",
+                         "explanation": ""
+                    },
+                    {
                          "q_num": 66,
                          "topic": "Natural monopoly",
                          "type": "mcq",
@@ -288,6 +1044,48 @@
                               "the average costs of production will decrease."
                          ],
                          "answer": "the average costs of production will increase.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 67,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When there are economies of scale over the relevant range of output for a monopoly, the monopoly",
+                         "options": [
+                              "is a natural monopoly.",
+                              "is a government-granted monopoly.",
+                              "has monopoly power due to the ownership of a patent or copyright.",
+                              "has monopoly power due to the ownership of a key production resource."
+                         ],
+                         "answer": "is a natural monopoly.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 68,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When a firm experiences continually declining average total costs, the firm is a",
+                         "options": [
+                              "natural monopoly.",
+                              "price taker.",
+                              "government-created monopoly.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "natural monopoly.",
+                         "explanation": ""
+                    },
+                    {
+                         "q_num": 69,
+                         "topic": "Natural monopoly",
+                         "type": "mcq",
+                         "question": "When a firm experiences continually declining average total costs,",
+                         "options": [
+                              "the firm is a price taker.",
+                              "society is better served by having one firm supply the product.",
+                              "the firm will earn higher profits than if average total costs are increasing.",
+                              "All of the above are correct."
+                         ],
+                         "answer": "society is better served by having one firm supply the product.",
                          "explanation": ""
                     }
                ]
