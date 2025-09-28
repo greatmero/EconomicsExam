@@ -1,0 +1,3092 @@
+{
+   "title": "/Chapter 17/Oligopoly ❖ 17",
+   "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-8 w-8\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"2\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\" /></svg>",
+   "sectors": {
+      "sector1": {
+         "title": "MULTIPLE CHOICE",
+         "questions": [
+            {
+               "q_num": 1,
+               "topic": "Oligopoly | Markets",
+               "type": "mcq",
+               "question": "Which of the following statements about oligopolies is not correct?",
+               "options": [
+                  "An oligopolistic market has only a few sellers.",
+                  "The actions of any one seller can have a large impact on the profits of all other sellers.",
+                  "Oligopolistic firms are interdependent in a way that competitive firms are not.",
+                  "\"Unlike monopolies and monopolistically competitive markets, oligopolies prices do not exceed\",their marginal revenues."
+               ],
+               "answer": "\"Unlike monopolies and monopolistically competitive markets, oligopolies prices do not exceed\",their marginal revenues.",
+               "explanation": ""
+            },
+            {
+               "q_num": 2,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "In the language of game theory, a situation in which each person must consider how others might respond to his or her own actions is called a",
+               "options": [
+                  "quantifiable situation.",
+                  "cooperative situation.",
+                  "strategic situation.",
+                  "tactical situation."
+               ],
+               "answer": "strategic situation.",
+               "explanation": ""
+            },
+            {
+               "q_num": 3,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "In general, game theory is the study of",
+               "options": [
+                  "how people behave in strategic situations.",
+                  "how people behave when the possible actions of other people are irrelevant.",
+                  "oligopolistic markets.",
+                  "\"all types of markets, including competitive markets, monopolistic markets, and oligopolistic\",markets."
+               ],
+               "answer": "how people behave in strategic situations.",
+               "explanation": ""
+            },
+            {
+               "q_num": 4,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Which of the following statements is correct?",
+               "options": [
+                  "Strategic situations are more likely to arise when the number of decision-makers is very large rather,than very small.",
+                  "Strategic situations are more likely to arise in monopolistically competitive markets than in,oligopolistic markets.",
+                  "\"Game theory is useful in understanding certain business decisions, but it is not really applicable to\",ordinary games such as chess or tic-tac-toe.",
+                  "Game theory is not necessary for understanding competitive or monopoly markets."
+               ],
+               "answer": "Game theory is not necessary for understanding competitive or monopoly markets.",
+               "explanation": ""
+            },
+            {
+               "q_num": 5,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "In which of the following markets are strategic interactions among firms most likely to occur?",
+               "options": [
+                  "markets to which patent and copyright laws apply",
+                  "the market for piano lessons",
+                  "the market for tennis balls",
+                  "the market for corn"
+               ],
+               "answer": "the market for tennis balls",
+               "explanation": ""
+            },
+            {
+               "q_num": 6,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Game theory is important for understanding which of the following market types?",
+               "options": [
+                  "perfectly competitive and oligopolistic markets",
+                  "perfectly competitive markets but not oligopolistic markets",
+                  "oligoplistic but not perfectly competitive markets",
+                  "neither oligopolistic nor perfectly competitive markets."
+               ],
+               "answer": "oligoplistic but not perfectly competitive markets",
+               "explanation": ""
+            },
+            {
+               "q_num": 7,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "In choosing among alternative courses of action, Raj must consider how others might respond to the action he takes. In the language of game theory, we say that Raj must think",
+               "options": [
+                  "openly.",
+                  "strategically.",
+                  "dominantly.",
+                  "cooperatively."
+               ],
+               "answer": "strategically.",
+               "explanation": ""
+            },
+            {
+               "q_num": 8,
+               "topic": "Game theory | Markets",
+               "type": "mcq",
+               "question": "We must be knowledgeable of how people behave in strategic situations if we are to understand",
+               "options": [
+                  "perfectly competitive markets.",
+                  "monopolistically competitive markets.",
+                  "oligopolistic markets.",
+                  "All of the above are correct."
+               ],
+               "answer": "oligopolistic markets.",
+               "explanation": ""
+            },
+            {
+               "q_num": 9,
+               "topic": "Oligopoly | Interdependence",
+               "type": "mcq",
+               "question": "In an oligopoly, each firm knows that its profits",
+               "options": [
+                  "depend only on how much output it produces.",
+                  "depend only on how much output its rival firms produce.",
+                  "depend on both how much output it produces and how much output its rival firms produce.",
+                  "will be zero in the long run because of free entry."
+               ],
+               "answer": "depend on both how much output it produces and how much output its rival firms produce.",
+               "explanation": ""
+            }
+         ]
+      },
+      "sector2": {
+         "title": "MARKETS WITH ONLY A FEW SELLERS",
+         "questions": [
+            {
+               "q_num": 1,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "A distinguishing feature of an oligopolistic industry is the tension between",
+               "options": [
+                  "profit maximization and cost minimization.",
+                  "cooperation and self interest.",
+                  "producing a small amount of output and charging a price above marginal cost.",
+                  "short-run decisions and long-run decisions."
+               ],
+               "answer": "cooperation and self interest.",
+               "explanation": ""
+            },
+            {
+               "q_num": 2,
+               "topic": "Oligopoly | Cooperation",
+               "type": "mcq",
+               "question": "In studying oligopolistic markets, economists assume that",
+               "options": [
+                  "there is no conflict or tension between cooperation and self-interest.",
+                  "it is easy for a group of firms to cooperate and thereby establish and maintain a monopoly outcome.",
+                  "each oligopolist cares only about its own profit.",
+                  "strategic decisions do not play a role in such markets."
+               ],
+               "answer": "each oligopolist cares only about its own profit.",
+               "explanation": ""
+            },
+            {
+               "q_num": 3,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "The simplest type of oligopoly is",
+               "options": [
+                  "monopoly.",
+                  "duopoly.",
+                  "monopolistic competition.",
+                  "oligopolistic competition."
+               ],
+               "answer": "duopoly.",
+               "explanation": ""
+            },
+            {
+               "q_num": 4,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "A special kind of imperfectly competitive market that has only two firms is called",
+               "options": [
+                  "a two-tier competitive structure.",
+                  "an incidental monopoly.",
+                  "a doublet.",
+                  "a duopoly."
+               ],
+               "answer": "a duopoly.",
+               "explanation": ""
+            },
+            {
+               "q_num": 5,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "An agreement between two duopolists to function as a monopolist usually breaks down because",
+               "options": [
+                  "they cannot agree on the price that a monopolist would charge.",
+                  "they cannot agree on the output that a monopolist would produce.",
+                  "each duopolist wants a larger share of the market in order to capture more profit.",
+                  "each duopolist wants to charge a higher price than the monopoly price."
+               ],
+               "answer": "each duopolist wants a larger share of the market in order to capture more profit.",
+               "explanation": ""
+            },
+            {
+               "q_num": 6,
+               "topic": "Collusion",
+               "type": "mcq",
+               "question": "An agreement among firms in a market about quantities to produce or prices to charge is called",
+               "options": [
+                  "collusion.",
+                  "a strategic situation.",
+                  "excess capacity.",
+                  "tying."
+               ],
+               "answer": "collusion.",
+               "explanation": ""
+            },
+            {
+               "q_num": 7,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "Which of the following statements is correct?",
+               "options": [
+                  "\"If duopolists successfully collude, then their combined output will be equal to the output that would be observed if the market were a monopoly.\"",
+                  "\"Although the logic of self-interest decreases a duopoly’s price below the monopoly price, it does not push the duopolists to reach the competitive price.\"",
+                  "\"Although the logic of self-interest increases a duopoly’s level of output above the monopoly level, it does not push the duopolists to reach the competitive level.\"",
+                  "All of the above are correct."
+               ],
+               "answer": "All of the above are correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 8,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "Suppose that Jay-Z and Beyonce are duopolists in the music industry. In January, they agree to work together as a monopolist, charging the monopoly price for their music and producing the monopoly quantity of songs. By February, each singer is considering breaking the agreement. What would you expect to happen next?",
+               "options": [
+                  "Jay-Z and Beyonce will determine that it is in each singer’s best self interest to maintain the agreement.",
+                  "\"Jay-Z and Beyonce will each break the agreement. The new equilibrium quantity of songs will increase, and the new equilibrium price will decrease.\"",
+                  "\"Jay-Z and Beyonce will each break the agreement. The new equilibrium quantity of songs will decrease, and the new equilibrium price will increase.\"",
+                  "\"Jay-Z and Beyonce will each break the agreement. The new equilibrium quantity of songs will increase, and the new equilibrium price also will increase.\""
+               ],
+               "answer": "\"Jay-Z and Beyonce will each break the agreement. The new equilibrium quantity of songs will increase, and the new equilibrium price will decrease.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 9,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "As the number of firms in an oligopoly increases, the",
+               "options": [
+                  "\"price approaches marginal cost, and the quantity approaches the socially efficient level.\"",
+                  "price and quantity approach the monopoly levels.",
+                  "price effect exceeds the output effect.",
+                  "individual firms’ profits increase."
+               ],
+               "answer": "\"price approaches marginal cost, and the quantity approaches the socially efficient level.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 10,
+               "topic": null,
+               "type": "mcq",
+               "question": "If a certain market were a monopoly, then the monopolist would maximize its profit by producing 1,000 units of output. If, instead, that market were a duopoly, then which of the following outcomes would be most likely if the duopolists successfully collude?",
+               "options": [
+                  "\"Each duopolist produces 1,000 units of output.\"",
+                  "Each duopolist produces 600 units of output.",
+                  "One duopolist produces 400 units of output and the other produces 600 units of output.",
+                  "One duopolist produces 800 units of output and the other produces 400 units of output."
+               ],
+               "answer": "One duopolist produces 400 units of output and the other produces 600 units of output.",
+               "explanation": ""
+            },
+            {
+               "q_num": 11,
+               "topic": "Oligopoly | Cartels",
+               "type": "mcq",
+               "question": "Which of the following statements is correct?",
+               "options": [
+                  "\"When duopoly firms reach a Nash equilibrium, their combined level of output is the monopoly level of output.\"",
+                  "\"When oligopoly firms collude, they are behaving as a cartel.\"",
+                  "\"In an oligopoly, self-interest drives the market to the competitive outcome.\"",
+                  "An oligopoly is an example of monopolistic competition."
+               ],
+               "answer": "\"When oligopoly firms collude, they are behaving as a cartel.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 12,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "As the number of firms in an oligopoly increases, the magnitude of the",
+               "options": [
+                  "output effect increases.",
+                  "output effect decreases.",
+                  "price effect increases.",
+                  "price effect decreases."
+               ],
+               "answer": "price effect decreases.",
+               "explanation": ""
+            },
+            {
+               "q_num": 13,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "As the number of sellers in an oligopoly becomes very large,",
+               "options": [
+                  "the quantity of output approaches the socially efficient quantity.",
+                  "the price approaches marginal cost.",
+                  "the price effect is diminished.",
+                  "All of the above are correct."
+               ],
+               "answer": "All of the above are correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 14,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "In markets characterized by oligopoly,",
+               "options": [
+                  "the oligopolists earn the highest profit when they cooperate and behave like a monopolist.",
+                  "collusive agreements will always prevail.",
+                  "collective profits are always lower with cartel arrangements than they are without cartel arrangements.",
+                  "pursuit of self-interest by profit-maximizing firms always maximizes collective profits in the market."
+               ],
+               "answer": "the oligopolists earn the highest profit when they cooperate and behave like a monopolist.",
+               "explanation": ""
+            },
+            {
+               "q_num": 15,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "As a group, oligopolists would always be better off if they would act collectively",
+               "options": [
+                  "as if they were each seeking to maximize their own individual profits.",
+                  "in a manner that would prohibit collusive agreements.",
+                  "as a single monopolist.",
+                  "as a single perfectly competitive firm."
+               ],
+               "answer": "as a single monopolist.",
+               "explanation": ""
+            },
+            {
+               "q_num": 16,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "As a group, oligopolists would always earn the highest profit if they would",
+               "options": [
+                  "produce the perfectly competitive quantity of output.",
+                  "produce more than the perfectly competitive quantity of output.",
+                  "charge the same price that a monopolist would charge if the market were a monopoly.",
+                  "operate according to their own individual self-interests."
+               ],
+               "answer": "charge the same price that a monopolist would charge if the market were a monopoly.",
+               "explanation": ""
+            },
+            {
+               "q_num": 17,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "Because each oligopolist cares about its own profit rather than the collective profit of all the oligopolists together,",
+               "options": [
+                  "they are unable to maintain the same degree of monopoly power enjoyed by a monopolist.",
+                  "each firm's profit always ends up being zero.",
+                  "society is worse off as a result.",
+                  "Both a and c are correct."
+               ],
+               "answer": "they are unable to maintain the same degree of monopoly power enjoyed by a monopolist.",
+               "explanation": ""
+            },
+            {
+               "q_num": 18,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "When an oligopoly market reaches a Nash equilibrium,",
+               "options": [
+                  "the market price will be different for each firm.",
+                  "the firms will not have behaved as profit maximizers.",
+                  "\"a firm will have chosen its best strategy, given the strategies chosen by other firms in the market.\"",
+                  "a firm will not take into account the strategies of competing firms."
+               ],
+               "answer": "\"a firm will have chosen its best strategy, given the strategies chosen by other firms in the market.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 19,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "In a duopoly situation, the logic of self-interest results in a total output level that",
+               "options": [
+                  "equals the output level that would prevail in a competitive market.",
+                  "equals the output level that would prevail in a monopoly.",
+                  "\"exceeds the monopoly level of output, but falls short of the competitive level of output.\"",
+                  "falls short of the monopoly level of output."
+               ],
+               "answer": "\"exceeds the monopoly level of output, but falls short of the competitive level of output.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 20,
+               "topic": "Oligopoly | Nash equilibrium",
+               "type": "mcq",
+               "question": "As a group, oligopolists earn the highest profit when they",
+               "options": [
+                  "achieve a Nash equilibrium.",
+                  "produce a total quantity of output that falls short of the Nash-equilibrium total quantity.",
+                  "produce a total quantity of output that exceeds the Nash-equilibrium total quantity.",
+                  "charge a price that falls short of the Nash-equilibrium price."
+               ],
+               "answer": "produce a total quantity of output that falls short of the Nash-equilibrium total quantity.",
+               "explanation": ""
+            },
+            {
+               "q_num": 21,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "In order to be successful, a cartel must",
+               "options": [
+                  "find a way to encourage members to produce more than they would otherwise produce.",
+                  "\"agree on the total level of production for the cartel, but they need not agree on the amount produced by each member.\"",
+                  "agree on the total level of production and on the amount produced by each member.",
+                  "\"agree on the prices charged by each member, but they need not agree on amounts produced.\""
+               ],
+               "answer": "agree on the total level of production and on the amount produced by each member.",
+               "explanation": ""
+            },
+            {
+               "q_num": 22,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "In a particular town, Comvision and Veriview are the only two providers of cable TV service. Comvision and Veriview constitute a",
+               "options": [
+                  "\"duopoly, whether they collude or not.\"",
+                  "\"cartel, whether they collude or not.\"",
+                  "\"Nash industry, whether they collude or not.\"",
+                  "monopolistically competitive market if they charge the same price."
+               ],
+               "answer": "\"duopoly, whether they collude or not.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 23,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "Which of these situations produces the largest profits for oligopolists?",
+               "options": [
+                  "The firms reach a Nash equilibrium.",
+                  "The firms reach the monopoly outcome.",
+                  "The firms reach the competitive outcome.",
+                  "The firms produce a quantity of output that lies between the competitive outcome and the monopoly outcome."
+               ],
+               "answer": "The firms reach the monopoly outcome.",
+               "explanation": ""
+            },
+            {
+               "q_num": 24,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "When firms have agreements among themselves on the quantity to produce and the price at which to sell output, we refer to their form of organization as a",
+               "options": [
+                  "Nash arrangement.",
+                  "cartel.",
+                  "monopolistically competitive oligopoly.",
+                  "perfectly competitive oligopoly."
+               ],
+               "answer": "cartel.",
+               "explanation": ""
+            },
+            {
+               "q_num": 25,
+               "topic": "Oligopoly | Equilibrium quantity",
+               "type": "mcq",
+               "question": "The equilibrium quantity in markets characterized by oligopoly is",
+               "options": [
+                  "higher than in monopoly markets and higher than in perfectly competitive markets.",
+                  "higher than in monopoly markets and lower than in perfectly competitive markets.",
+                  "lower than in monopoly markets and higher than in perfectly competitive markets.",
+                  "lower than in monopoly markets and lower than in perfectly competitive markets."
+               ],
+               "answer": "higher than in monopoly markets and lower than in perfectly competitive markets.",
+               "explanation": ""
+            },
+            {
+               "q_num": 26,
+               "topic": "Oligopoly | Equilibrium price",
+               "type": "mcq",
+               "question": "The equilibrium price in a market characterized by oligopoly is",
+               "options": [
+                  "higher than in monopoly markets and higher than in perfectly competitive markets.",
+                  "higher than in monopoly markets and lower than in perfectly competitive markets.",
+                  "lower than in monopoly markets and higher than in perfectly competitive markets.",
+                  "lower than in monopoly markets and lower than in perfectly competitive markets."
+               ],
+               "answer": "lower than in monopoly markets and higher than in perfectly competitive markets.",
+               "explanation": ""
+            },
+            {
+               "q_num": 27,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "When oligopolistic firms interacting with one another each choose their best strategy given the strategies chosen by other firms in the market, we have",
+               "options": [
+                  "a cartel.",
+                  "a group of oligopolists behaving as a monopoly.",
+                  "a Nash equilibrium.",
+                  "the perfectly competitive outcome."
+               ],
+               "answer": "a Nash equilibrium.",
+               "explanation": ""
+            },
+            {
+               "q_num": 28,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "As the number of firms in an oligopoly market",
+               "options": [
+                  "\"decreases, the price charged by firms likely decreases.\"",
+                  "\"decreases, the market approaches the competitive market outcome.\"",
+                  "\"increases, the market approaches the competitive market outcome.\"",
+                  "\"increases, the market approaches the monopoly outcome.\""
+               ],
+               "answer": "\"increases, the market approaches the competitive market outcome.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 29,
+               "topic": "Oligopoly | Equilibrium",
+               "type": "mcq",
+               "question": "Assume oligopoly firms are profit maximizers, they do not form a cartel, and they take other firms' production levels as given. Then in equilibrium the output effect",
+               "options": [
+                  "must dominate the price effect.",
+                  "must be smaller than the price effect.",
+                  "must balance with the price effect.",
+                  "can be larger or smaller than the price effect."
+               ],
+               "answer": "must balance with the price effect.",
+               "explanation": ""
+            },
+            {
+               "q_num": 30,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "For cartels, as the number of firms (members of the cartel) increases,",
+               "options": [
+                  "the monopoly outcome becomes more likely.",
+                  "the magnitude of the price effect decreases.",
+                  "the more concerned each seller is about its own impact on the market price.",
+                  "the easier it becomes to observe members violating their agreements."
+               ],
+               "answer": "the magnitude of the price effect decreases.",
+               "explanation": ""
+            },
+            {
+               "q_num": 31,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "Suppose a market is initially perfectly competitive with many firms selling an identical product. Over time, however, suppose the merging of firms results in the market being served by only three or four firms selling this same product. As a result, we would expect",
+               "options": [
+                  "an increase in market output and an increase in the price of the product.",
+                  "an increase in market output and an decrease in the price of the product.",
+                  "a decrease in market output and an increase in the price of the product.",
+                  "a decrease in market output and a decrease in the price of the product."
+               ],
+               "answer": "a decrease in market output and an increase in the price of the product.",
+               "explanation": ""
+            },
+            {
+               "q_num": 32,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "Cartels are difficult to maintain because",
+               "options": [
+                  "antitrust laws are difficult to enforce.",
+                  "cartel agreements are conducive to monopoly outcomes.",
+                  "there is always tension between cooperation and self-interest in a cartel.",
+                  "firms pay little attention to the decisions made by other firms."
+               ],
+               "answer": "there is always tension between cooperation and self-interest in a cartel.",
+               "explanation": ""
+            },
+            {
+               "q_num": 33,
+               "topic": "Markets",
+               "type": "mcq",
+               "question": "There are two types of markets in which firms face some competition yet are still able to have some control over the prices of their products. Those two types of market are",
+               "options": [
+                  "monopolistic competition and oligopoly.",
+                  "duopoly and triopoly.",
+                  "perfect competition and monopolistic competition.",
+                  "duopoly and imperfect competition."
+               ],
+               "answer": "monopolistic competition and oligopoly.",
+               "explanation": ""
+            },
+            {
+               "q_num": 34,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "A group of firms that act in unison to maximize collective profits is called a",
+               "options": [
+                  "monopolistically competitive industry.",
+                  "monopoly.",
+                  "cartel.",
+                  "Nash equilibrium market."
+               ],
+               "answer": "cartel.",
+               "explanation": ""
+            },
+            {
+               "q_num": 35,
+               "topic": "Collusion",
+               "type": "mcq",
+               "question": "An agreement among firms regarding price and/or production levels is called",
+               "options": [
+                  "an antitrust market.",
+                  "a free-trade arrangement.",
+                  "collusion.",
+                  "a Nash agreement."
+               ],
+               "answer": "collusion.",
+               "explanation": ""
+            },
+            {
+               "q_num": 36,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "If duopolists individually pursue their own self-interest when deciding how much to produce, the amount they will produce collectively will",
+               "options": [
+                  "be less than the monopoly quantity.",
+                  "be equal to the monopoly quantity.",
+                  "be greater than the monopoly quantity.",
+                  "Any of the above are possible."
+               ],
+               "answer": "be greater than the monopoly quantity.",
+               "explanation": ""
+            },
+            {
+               "q_num": 37,
+               "topic": "Duopoly",
+               "type": "mcq",
+               "question": "If duopolists individually pursue their own self-interest when deciding how much to produce, the profit- maximizing price they will charge for their product will be",
+               "options": [
+                  "less than the monopoly price.",
+                  "equal to the perfectly competitive market price.",
+                  "greater than the monopoly price.",
+                  "possibly less than or greater than the monopoly price."
+               ],
+               "answer": "less than the monopoly price.",
+               "explanation": ""
+            },
+            {
+               "q_num": 38,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "To increase their individual profits, members of a cartel have an incentive to",
+               "options": [
+                  "charge a higher price than the other members of the cartel.",
+                  "increase production above the level agreed upon.",
+                  "ignore the choices made by the other firms and act as a monopolist.",
+                  "charge the same price a monopolist would charge."
+               ],
+               "answer": "increase production above the level agreed upon.",
+               "explanation": ""
+            },
+            {
+               "q_num": 39,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "Once a cartel is formed, the market is in effect served by",
+               "options": [
+                  "a monopoly.",
+                  "an oligopoly.",
+                  "imperfect competition.",
+                  "monopolistic competition."
+               ],
+               "answer": "a monopoly.",
+               "explanation": ""
+            },
+            {
+               "q_num": 40,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "If an oligopolist is part of a cartel that is collectively producing the monopoly level of output, then that oligopolist has the incentive to lower production with the aim of",
+               "options": [
+                  "lowering prices.",
+                  "increasing profits for the group of firms as a whole.",
+                  "\"increasing profits for itself, regardless of the impact on profits for the group of firms as a whole.\"",
+                  "None of the above is correct."
+               ],
+               "answer": "None of the above is correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 41,
+               "topic": "Profit maximization",
+               "type": "mcq",
+               "question": "When price is above marginal cost, selling one more unit at the current price will increase profit. This concept is known as the",
+               "options": [
+                  "income effect.",
+                  "price effect.",
+                  "output effect.",
+                  "cartel effect."
+               ],
+               "answer": "output effect.",
+               "explanation": ""
+            },
+            {
+               "q_num": 42,
+               "topic": "Profit maximization",
+               "type": "mcq",
+               "question": "In imperfectly competitive markets, increasing production will decrease the price of all units sold. This concept is known as the",
+               "options": [
+                  "income effect.",
+                  "cost effect.",
+                  "output effect.",
+                  "price effect."
+               ],
+               "answer": "price effect.",
+               "explanation": ""
+            },
+            {
+               "q_num": 43,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "In a typical cartel agreement, the cartel maximizes profit when it",
+               "options": [
+                  "behaves as a monopolist.",
+                  "behaves as a duopolist.",
+                  "is flexible in enforcing production targets.",
+                  "behaves as a perfectly competitive firm."
+               ],
+               "answer": "behaves as a monopolist.",
+               "explanation": ""
+            },
+            {
+               "q_num": 44,
+               "topic": "Oligopoly | Profit maximization",
+               "type": "mcq",
+               "question": "An oligopolist will increase production if the output effect is",
+               "options": [
+                  "less than the price effect.",
+                  "equal to the price effect.",
+                  "greater than the price effect.",
+                  "The oligopolist never has an incentive to increase production."
+               ],
+               "answer": "greater than the price effect.",
+               "explanation": ""
+            },
+            {
+               "q_num": 45,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "As the number of firms in an oligopoly increases,",
+               "options": [
+                  "each seller becomes more concerned about its impact on the market price.",
+                  "the output effect decreases.",
+                  "the total quantity of output produced by firms in the market gets closer to the socially efficient quantity.",
+                  "the oligopoly has more market power and firms earn a greater profit."
+               ],
+               "answer": "the total quantity of output produced by firms in the market gets closer to the socially efficient quantity.",
+               "explanation": ""
+            },
+            {
+               "q_num": 46,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "When an oligopoly grows very large, the",
+               "options": [
+                  "output effect disappears.",
+                  "price effect disappears.",
+                  "output effect equals the price effect.",
+                  "price of the product greatly exceeds marginal cost."
+               ],
+               "answer": "price effect disappears.",
+               "explanation": ""
+            },
+            {
+               "q_num": 47,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "As the number of firms in an oligopoly increases, the price approaches",
+               "options": [
+                  "zero.",
+                  "marginal cost.",
+                  "infinity.",
+                  "the monopoly price."
+               ],
+               "answer": "marginal cost.",
+               "explanation": ""
+            },
+            {
+               "q_num": 48,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "Like monopolists, oligopolists are aware that an increase in the quantity of output always",
+               "options": [
+                  "reduces the price of their product.",
+                  "reduces their profit.",
+                  "reduces their revenue.",
+                  "reduces productivity."
+               ],
+               "answer": "reduces the price of their product.",
+               "explanation": ""
+            },
+            {
+               "q_num": 49,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "Oligopolies would like to act like a",
+               "options": [
+                  "\"duopoly, but self-interest often drives them closer to the perfectly competitive outcome.\"",
+                  "\"competitive firm, but self-interest often drives them closer to the duopoly outcome.\"",
+                  "\"monopoly, but self-interest often drives them to charge a higher price than would be charged by a monopoly.\"",
+                  "\"monopoly, but self-interest often drives them closer to the perfectly competitive outcome.\""
+               ],
+               "answer": "\"monopoly, but self-interest often drives them closer to the perfectly competitive outcome.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 50,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "Oligopolies can end up looking like competitive markets if the number of firms is",
+               "options": [
+                  "large and they all cooperate.",
+                  "large and they do not cooperate.",
+                  "small and they all cooperate.",
+                  "small and they do not cooperate."
+               ],
+               "answer": "large and they do not cooperate.",
+               "explanation": ""
+            },
+            {
+               "q_num": 51,
+               "topic": "Oligopoly | International trade",
+               "type": "mcq",
+               "question": "The theory of oligopoly provides another reason that free trade can benefit all countries because",
+               "options": [
+                  "increased competition leads to larger deadweight losses.",
+                  "\"as the number of firms within a given market increases, the price of the good decreases.\"",
+                  "\"as the number of firms within a given market increases, the profit of each firm increases.\"",
+                  "All of the above are correct."
+               ],
+               "answer": "\"as the number of firms within a given market increases, the price of the good decreases.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 52,
+               "topic": "Profit maximization",
+               "type": "mcq",
+               "question": "Firms do not need to be concerned about striking a balance between the price effect and the output effect when making production decisions in which of the following types of markets?",
+               "options": [
+                  "oligopoly",
+                  "duopoly",
+                  "monopoly",
+                  "competitive markets"
+               ],
+               "answer": "competitive markets",
+               "explanation": ""
+            },
+            {
+               "q_num": 53,
+               "topic": "Oligopoly | International trade",
+               "type": "mcq",
+               "question": "If nations such as Germany, Japan, and the United States prohibited international trade in automobiles, a likely effect would be that",
+               "options": [
+                  "the price effect would become a more significant consideration for each firm that makes automobiles.",
+                  "the excess of price over marginal cost would become less pronounced in the automobile market.",
+                  "all countries would become better off.",
+                  "automobile producers in the U.S. would collude to produce a large number of cars."
+               ],
+               "answer": "the price effect would become a more significant consideration for each firm that makes automobiles.",
+               "explanation": ""
+            },
+            {
+               "q_num": 54,
+               "topic": "Oligopoly | International trade",
+               "type": "mcq",
+               "question": "The theory of oligopoly provides a reason why",
+               "options": [
+                  "perfect competition is not a useful object of study.",
+                  "price is less than marginal cost for many firms.",
+                  "all countries can benefit from free trade among nations.",
+                  "firms do not want to capture larger shares of their markets."
+               ],
+               "answer": "all countries can benefit from free trade among nations.",
+               "explanation": ""
+            },
+            {
+               "q_num": 55,
+               "topic": null,
+               "type": "mcq",
+               "question": "During the 1990s, the members of OPEC operated independently from one another, causing the world market for crude oil to become close to",
+               "options": [
+                  "a monopoly market.",
+                  "an oligopoly market.",
+                  "a duopoly market.",
+                  "a competitive market."
+               ],
+               "answer": "a competitive market.",
+               "explanation": ""
+            },
+            {
+               "q_num": 56,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "In an oligopoly, the total output produced in the market is",
+               "options": [
+                  "higher than the total output that would be produced if the market were a monopoly and higher than the total output that would be produced if the market were perfectly competitive.",
+                  "higher than the total output that would be produced if the market were a monopoly but lower than the total output that would be produced if the market were perfectly competitive.",
+                  "lower than the total output that would be produced if the market were a monopoly but higher than the total output that would be produced if the market were perfectly competitive.",
+                  "lower than the total output that would be produced if the market were a monopoly and lower than the total output that would be produced if the market were perfectly competitive."
+               ],
+               "answer": "higher than the total output that would be produced if the market were a monopoly but lower than the total output that would be produced if the market were perfectly competitive.",
+               "explanation": ""
+            }
+         ]
+      },
+      "sector3": {
+         "title": "THE ECONOMICS OF COOPERATION",
+         "questions": [
+            {
+               "q_num": 1,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "When firms are faced with making strategic choices in order to maximize profit, economists typically use",
+               "options": [
+                  "the theory of monopoly to model their behavior.",
+                  "the theory of aggressive competition to model their behavior.",
+                  "game theory to model their behavior.",
+                  "cartel theory to model their behavior."
+               ],
+               "answer": "game theory to model their behavior.",
+               "explanation": ""
+            },
+            {
+               "q_num": 2,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "When strategic interactions are important to pricing and production decisions, a typical firm will",
+               "options": [
+                  "set the price of its product equal to marginal cost.",
+                  "consider how competing firms might respond to its actions.",
+                  "generally operate as if it is a monopolist.",
+                  "consider exiting the market."
+               ],
+               "answer": "consider how competing firms might respond to its actions.",
+               "explanation": ""
+            },
+            {
+               "q_num": 3,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Game theory is important for the understanding of",
+               "options": [
+                  "competitive markets.",
+                  "monopolies.",
+                  "oligopolies.",
+                  "all market structures."
+               ],
+               "answer": "oligopolies.",
+               "explanation": ""
+            },
+            {
+               "q_num": 4,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Game theory is necessary for understanding",
+               "options": [
+                  "all market structures.",
+                  "\"competition and oligopoly, but it is not necessary for understanding monopoly.\"",
+                  "\"monopoly and oligopoly, but it is not necessary for understanding competition.\"",
+                  "\"oligopoly, but it is not necessary for understanding monopoly or competition.\""
+               ],
+               "answer": "\"oligopoly, but it is not necessary for understanding monopoly or competition.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 5,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "The prisoners' dilemma provides insights into the",
+               "options": [
+                  "difficulty of maintaining cooperation.",
+                  "benefits of avoiding cooperation.",
+                  "benefits of government ownership of monopoly.",
+                  "ease with which oligopoly firms maintain high prices."
+               ],
+               "answer": "difficulty of maintaining cooperation.",
+               "explanation": ""
+            },
+            {
+               "q_num": 6,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "In the prisoners' dilemma game, self-interest leads",
+               "options": [
+                  "each prisoner to confess.",
+                  "to a breakdown of any agreement that the prisoners might have made before being questioned.",
+                  "to an outcome that is not particularly good for either prisoner.",
+                  "All of the above are correct."
+               ],
+               "answer": "All of the above are correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 7,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "The likely outcome of the standard prisoners' dilemma game is that",
+               "options": [
+                  "neither prisoner confesses.",
+                  "exactly one prisoner confesses.",
+                  "both prisoners confess.",
+                  "Not enough information is given to answer this question."
+               ],
+               "answer": "both prisoners confess.",
+               "explanation": ""
+            },
+            {
+               "q_num": 8,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "The prisoners' dilemma is an important game to study because",
+               "options": [
+                  "most games present zero-sum alternatives.",
+                  "it identifies the fundamental difficulty in maintaining cooperative agreements.",
+                  "strategic decisions faced by prisoners are identical to those faced by firms engaged in competitive,agreements.",
+                  "all interactions among firms are represented by this game."
+               ],
+               "answer": "it identifies the fundamental difficulty in maintaining cooperative agreements.",
+               "explanation": ""
+            },
+            {
+               "q_num": 9,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "The prisoners’ dilemma game",
+               "options": [
+                  "provides insight into why cooperation is individually rational.",
+                  "provides insight into why cooperation is difficult.",
+                  "is a game in which neither player has a dominant strategy.",
+                  "is a game in which exactly one of the two players has a dominant strategy."
+               ],
+               "answer": "provides insight into why cooperation is difficult.",
+               "explanation": ""
+            },
+            {
+               "q_num": 10,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "In the prisoners’ dilemma game with Bonnie and Clyde as the players, the likely outcome is one",
+               "options": [
+                  "in which neither Bonnie nor Clyde confesses.",
+                  "in which both Bonnie and Clyde confess.",
+                  "that involves neither Bonnie nor Clyde pursuing a dominant strategy.",
+                  "that is ideal in terms of Bonnie’s self-interest and in terms of Clyde’s self-interest."
+               ],
+               "answer": "in which both Bonnie and Clyde confess.",
+               "explanation": ""
+            },
+            {
+               "q_num": 11,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "In the prisoners’ dilemma game with Bonnie and Clyde as the players, the likely outcome is",
+               "options": [
+                  "a very good outcome for both players.",
+                  "\"a very good outcome for Bonnie, but a bad outcome for Clyde.\"",
+                  "\"a very good outcome for Clyde, but a bad outcome for Bonnie.\"",
+                  "a bad outcome for both players."
+               ],
+               "answer": "a bad outcome for both players.",
+               "explanation": ""
+            },
+            {
+               "q_num": 12,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "In a game, a dominant strategy is",
+               "options": [
+                  "the best strategy for a player to follow only if other players are cooperative.",
+                  "\"the best strategy for a player to follow, regardless of the strategies followed by other players.\"",
+                  "a strategy that must appear in every game.",
+                  "a strategy that leads to one player's interests dominating the interests of the other players."
+               ],
+               "answer": "\"the best strategy for a player to follow, regardless of the strategies followed by other players.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 13,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "A dominant strategy is one that",
+               "options": [
+                  "makes every player better off.",
+                  "makes at least one player better off without hurting the competitiveness of any other player.",
+                  "increases the total payoff for the player.",
+                  "\"is best for the player, regardless of what strategies other players follow.\""
+               ],
+               "answer": "\"is best for the player, regardless of what strategies other players follow.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 14,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-11\nTwo cigarette manufacturers (Firm A and Firm B) are faced with lawsuits from states to recover the healthcare related expenses associated with cigarette smoking. Both cigarette firms have evidence that indicates that cigarette smoke causes lung cancer (and other related illnesses). State prosecutors do not have access to the same data used by cigarette manufacturers and thus will have difficulty recovering full costs without the help of at least one cigarette firm study. Each firm has been presented with an opportunity to lower its liability in the suit if it cooperates with attorneys representing the states.\nRefer to Table 17-11 . Pursuing its own best interests, Firm A will concede that cigarette smoke causes lung cancer",
+               "options": [
+                  "only if Firm B concedes that cigarette smoke causes lung cancer.",
+                  "only if Firm B does not concede that cigarette smoke causes lung cancer.",
+                  "regardless of whether Firm B concedes that cigarette smoke causes lung cancer.",
+                  "\"None of the above. In pursuing its own best interests, Firm A will in no case concede that cigarette\",smoke causes lung cancer."
+               ],
+               "answer": "\"None of the above. In pursuing its own best interests, Firm A will in no case concede that cigarette\",smoke causes lung cancer.",
+               "explanation": ""
+            },
+            {
+               "q_num": 15,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-11\nTwo cigarette manufacturers (Firm A and Firm B) are faced with lawsuits from states to recover the healthcare related expenses associated with cigarette smoking. Both cigarette firms have evidence that indicates that cigarette smoke causes lung cancer (and other related illnesses). State prosecutors do not have access to the same data used by cigarette manufacturers and thus will have difficulty recovering full costs without the help of at least one cigarette firm study. Each firm has been presented with an opportunity to lower its liability in the suit if it cooperates with attorneys representing the states.\nRefer to Table 17-11 . Pursuing its own best interests, Firm B will concede that cigarette smoke causes lung cancer",
+               "options": [
+                  "only if Firm A concedes that cigarette smoke causes lung cancer.",
+                  "only if Firm A does not concede that cigarette smoke causes lung cancer.",
+                  "regardless of whether Firm A concedes that cigarette smoke causes lung cancer.",
+                  "\"None of the above; in pursuing its own best interests, Firm B will in no case concede that cigarette\",smoke causes lung cancer."
+               ],
+               "answer": "\"None of the above; in pursuing its own best interests, Firm B will in no case concede that cigarette\",smoke causes lung cancer.",
+               "explanation": ""
+            },
+            {
+               "q_num": 16,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-11\nTwo cigarette manufacturers (Firm A and Firm B) are faced with lawsuits from states to recover the healthcare related expenses associated with cigarette smoking. Both cigarette firms have evidence that indicates that cigarette smoke causes lung cancer (and other related illnesses). State prosecutors do not have access to the same data used by cigarette manufacturers and thus will have difficulty recovering full costs without the help of at least one cigarette firm study. Each firm has been presented with an opportunity to lower its liability in the suit if it cooperates with attorneys representing the states.\nRefer to Table 17-11 . If both firms follow a dominant strategy, Firm A's profits (losses) will be",
+               "options": [
+                  "$-50",
+                  "$-20",
+                  "$-10",
+                  "$-5"
+               ],
+               "answer": "$-10",
+               "explanation": ""
+            },
+            {
+               "q_num": 17,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-11\nTwo cigarette manufacturers (Firm A and Firm B) are faced with lawsuits from states to recover the healthcare related expenses associated with cigarette smoking. Both cigarette firms have evidence that indicates that cigarette smoke causes lung cancer (and other related illnesses). State prosecutors do not have access to the same data used by cigarette manufacturers and thus will have difficulty recovering full costs without the help of at least one cigarette firm study. Each firm has been presented with an opportunity to lower its liability in the suit if it cooperates with attorneys representing the states.\nRefer to Table 17-11 . If both firms follow a dominant strategy, Firm B's profits (losses) will be",
+               "options": [
+                  "$-50",
+                  "$-15",
+                  "$-10",
+                  "$-5"
+               ],
+               "answer": "$-10",
+               "explanation": ""
+            },
+            {
+               "q_num": 18,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "Table 17-11\nTwo cigarette manufacturers (Firm A and Firm B) are faced with lawsuits from states to recover the healthcare related expenses associated with cigarette smoking. Both cigarette firms have evidence that indicates that cigarette smoke causes lung cancer (and other related illnesses). State prosecutors do not have access to the same data used by cigarette manufacturers and thus will have difficulty recovering full costs without the help of at least one cigarette firm study. Each firm has been presented with an opportunity to lower its liability in the suit if it cooperates with attorneys representing the states.\nRefer to Table 17-11 . When this game reaches a Nash equilibrium, profits for Firm A and Firm B will be",
+               "options": [
+                  "\"$-5 and $-50, respectively.\"",
+                  "\"$-10 and $-10, respectively.\"",
+                  "\"$-20 and $-15, respectively.\"",
+                  "\"$-50 and $-5, respectively.\""
+               ],
+               "answer": "\"$-10 and $-10, respectively.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 19,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nPursuing its own best interests, Farland will impose trade sanctions against U.S. firms",
+               "options": [
+                  "only if the U.S. does not renew MFN status with Farland.",
+                  "only if the U.S. renews MFN status with Farland.",
+                  "regardless of whether the U.S. renews MFN status with Farland.",
+                  "\"None of the above is correct. In pursuing its own best interests, Farland will in no case impose trade\",sanctions against U.S. firms."
+               ],
+               "answer": "regardless of whether the U.S. renews MFN status with Farland.",
+               "explanation": ""
+            },
+            {
+               "q_num": 20,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nRefer to Table 17-12 . Pursuing its own best interests, the U.S. will renew MFN status with Farland",
+               "options": [
+                  "only if Farland does not impose trade sanctions against U.S. firms.",
+                  "only if Farland imposes trade sanctions against U.S. firms.",
+                  "regardless of whether Farland imposes trade sanctions against U.S. firms.",
+                  "\"None of the above is correct. In pursuing its own best interests, the United States will in no case\",renew MFN status with Farland."
+               ],
+               "answer": "\"None of the above is correct. In pursuing its own best interests, the United States will in no case\",renew MFN status with Farland.",
+               "explanation": ""
+            },
+            {
+               "q_num": 21,
+               "topic": "Prisoners' dilemma | Dominant strategy",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nRefer to Table 17-12 . This particular game",
+               "options": [
+                  "features a dominant strategy for the U.S.",
+                  "features a dominant strategy for Farland.",
+                  "is a version of the prisoners' dilemma game.",
+                  "All of the above are correct."
+               ],
+               "answer": "All of the above are correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 22,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nRefer to Table 17-12 . If both countries follow a dominant strategy, the value of trade flow benefits for Far- land will be",
+               "options": [
+                  "$5 b.",
+                  "$75 b.",
+                  "$275 b.",
+                  "$285 b."
+               ],
+               "answer": "$75 b.",
+               "explanation": ""
+            },
+            {
+               "q_num": 23,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nRefer to Table 17-12 . If both countries follow a dominant strategy, the value of trade flow benefits for the United States will be",
+               "options": [
+                  "$35 b.",
+                  "$65 b.",
+                  "$130 b.",
+                  "$140 b."
+               ],
+               "answer": "$65 b.",
+               "explanation": ""
+            },
+            {
+               "q_num": 24,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nRefer to Table 17-12 . When this game reaches a Nash equilibrium, the value of trade flow benefits will be",
+               "options": [
+                  "United States $35 b and Farland $285 b.",
+                  "United States $65 b and Farland $75 b.",
+                  "United States $140 b and Farland $5 b.",
+                  "United States $130 b and Farland $275 b."
+               ],
+               "answer": "United States $65 b and Farland $75 b.",
+               "explanation": ""
+            },
+            {
+               "q_num": 25,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nRefer to Table 17-12 . If trade negotiators are able to communicate effectively about the consequences of var- ious trade policies (i.e., enter into an agreement about the policy they should adopt), then we would expect the countries to agree to which outcome?",
+               "options": [
+                  "United States $35 b and Farland $285 b",
+                  "United States $65 b and Farland $75 b",
+                  "United States $140 b and Farland $5 b",
+                  "United States $130 b and Farland $275 b"
+               ],
+               "answer": "United States $130 b and Farland $275 b",
+               "explanation": ""
+            },
+            {
+               "q_num": 26,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Table 17-12\nEach year the United States considers renewal of Most Favored Nation (MFN) trading status with Farland (a mythical nation). Historically, legislators have made threats of not renewing MFN status because of human rights abuses in Farland. The non-renewal of MFN trading status is likely to involve some retaliatory measures by Farland. The payoff table below shows the potential economic gains associated with a game in which Farland may impose trade sanctions against U.S. firms and the United States may not renew MFN status with Farland. The table contains the dollar value of all trade-flow benefits to the United States and Farland.\nRefer to Table 17-12 . Assume that trade negotiators meet to discuss trade policy between the United States and Farland. If neither party to the negotiation is able to trust the other party, then",
+               "options": [
+                  "each should assume that the other will choose a strategy that optimizes total value of the trade,relationship.",
+                  "the Nash equilibrium will provide the largest possible gains to each party.",
+                  "Farland negotiators should assume that United States negotiators will implement a policy that is in,the mutual best interest of both countries.",
+                  "each should follow its dominant strategy."
+               ],
+               "answer": "each should follow its dominant strategy.",
+               "explanation": ""
+            },
+            {
+               "q_num": 27,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nPursuing its own best interest, Lopes will",
+               "options": [
+                  "increase the size of its store and parking lot only if HomeMax also increases the size of its store and,parking lot.",
+                  "increase the size of its store and parking lot only if HomeMax does not increase the size of its store,and parking lot.",
+                  "increase the size of its store and parking lot regardless of the decision made by HomeMax.",
+                  "not increase the size of its store and parking lot regardless of the decision made by HomeMax."
+               ],
+               "answer": "increase the size of its store and parking lot regardless of the decision made by HomeMax.",
+               "explanation": ""
+            },
+            {
+               "q_num": 28,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nRefer to Table 17-13 . Pursuing its own best interest, HomeMax will",
+               "options": [
+                  "increase the size of its store and parking lot only if Lopes also increases the size of its store and,parking lot.",
+                  "increase the size of its store and parking lot only if Lopes does not increase the size of its store and,parking lot.",
+                  "increase the size of its store and parking lot regardless of the decision made by Lopes.",
+                  "not increase the size of its store and parking lot regardless of the decision made by Lopes."
+               ],
+               "answer": "increase the size of its store and parking lot regardless of the decision made by Lopes.",
+               "explanation": ""
+            },
+            {
+               "q_num": 29,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nRefer to Table 17-13 . Increasing the size of its store and parking lot is a dominant strategy for",
+               "options": [
+                  "\"Lopes, but not for HomeMax.\"",
+                  "\"HomeMax, but not for Lopes.\"",
+                  "both stores.",
+                  "neither store."
+               ],
+               "answer": "both stores.",
+               "explanation": ""
+            },
+            {
+               "q_num": 30,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nRefer to Table 17-13 . If both stores follow a dominant strategy, HomeMax's annual profit will grow by",
+               "options": [
+                  "$0.6 million.",
+                  "$1.5 million.",
+                  "$2.5 million.",
+                  "$3.4 million."
+               ],
+               "answer": "$1.5 million.",
+               "explanation": ""
+            },
+            {
+               "q_num": 31,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nRefer to Table 17-13 . If both stores follow a dominant strategy, Lopes's annual profit will grow by",
+               "options": [
+                  "$0.4 million.",
+                  "$1.0 million.",
+                  "$2.0 million.",
+                  "$3.2 million."
+               ],
+               "answer": "$1.0 million.",
+               "explanation": ""
+            },
+            {
+               "q_num": 32,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nRefer to Table 17-13 . When this game reaches a Nash equilibrium, annual profit will grow by",
+               "options": [
+                  "$1.5 million for HomeMax and by $1.0 million for Lopes.",
+                  "$3.4 million for HomeMax and by $0.4 million for Lopes.",
+                  "$0.6 million for HomeMax and by $3.2 million for Lopes.",
+                  "$2.5 million for HomeMax and by $2.0 million for Lopes."
+               ],
+               "answer": "$1.5 million for HomeMax and by $1.0 million for Lopes.",
+               "explanation": ""
+            },
+            {
+               "q_num": 33,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nRefer to Table 17-13 . Suppose the owners of Lopes and HomeMax meet for a friendly game of golf one af- ternoon and happen to discuss a strategy to optimize growth related profit. They should both agree to",
+               "options": [
+                  "increase their store and parking lot sizes.",
+                  "refrain from increasing their store and parking lot sizes.",
+                  "be more competitive in capturing market share.",
+                  "share the context of their conversation with the Federal Trade Commission."
+               ],
+               "answer": "refrain from increasing their store and parking lot sizes.",
+               "explanation": ""
+            },
+            {
+               "q_num": 34,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "Table 17-13\nTwo home-improvement stores (Lopes and HomeMax) in a growing urban area are interested in expanding their market share. Both are interested in expanding the size of their store and parking lot to accommodate potential growth in their customer base. The following game depicts the strategic outcomes that result from the game. Increases in annual profits of the two home-improvement stores are shown in the table below.\nRefer to Table 17-13 . Suppose the owners of Lopes and HomeMax meet for a friendly game of golf one af- ternoon and happen to discuss a strategy to optimize growth related profit. If they both agree to cooperate on a strategy that maximizes their joint profits, annual profit will grow by",
+               "options": [
+                  "$1.0 million for Lopes and by $1.5 million for HomeMax.",
+                  "$0.4 million for Lopes and by $3.4 million for HomeMax.",
+                  "$3.2 million for Lopes and by $0.6 million for HomeMax.",
+                  "$2.0 million for Lopes and by $2.5 million for HomeMax."
+               ],
+               "answer": "$2.0 million for Lopes and by $2.5 million for HomeMax.",
+               "explanation": ""
+            },
+            {
+               "q_num": 35,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-1 . Two companies, ABC and XYZ, each decide whether to produce a high level of output or a low level of output. In the figure, the dollar amounts are payoffs and they represent annual profits for the two companies.\nRefer to Figure 17-1 . The dominant strategy for ABC is to",
+               "options": [
+                  "\"produce high output, and the dominant strategy for XYZ is to produce high output.\"",
+                  "\"produce high output, and the dominant strategy for XYZ is to produce low output.\"",
+                  "\"produce low output, and the dominant strategy for XYZ is to produce high output.\"",
+                  "\"produce low output, and the dominant strategy for XYZ is to produce low output.\""
+               ],
+               "answer": "\"produce high output, and the dominant strategy for XYZ is to produce high output.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 36,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-1 . Two companies, ABC and XYZ, each decide whether to produce a high level of output or a low level of output. In the figure, the dollar amounts are payoffs and they represent annual profits for the two companies.\nRefer to Figure 17-1 . Which of the following statements is correct?",
+               "options": [
+                  "\"ABC can potentially earn its highest possible profit if it produces a high level of output, and for that\",reason it is a dominant strategy for ABC to produce a high level of output.",
+                  "The highest possible combined profit for the two firms occurs when both produce a low level of,\"output, and for that reason producing a low level of output is a dominant strategy for both firms.\"",
+                  "\"Regardless of the strategy pursued by ABC, XYZ’s best strategy is to produce a high level of\",\"output, and for that reason producing a high level of output is a dominant strategy for XYZ.\"",
+                  "\"Our knowledge of game theory suggests that the most likely outcome of the game, if it is played\",\"only once, is for one firm to produce a low level of output and for the other firm to produce a high level of output.\""
+               ],
+               "answer": "\"Regardless of the strategy pursued by ABC, XYZ’s best strategy is to produce a high level of\",\"output, and for that reason producing a high level of output is a dominant strategy for XYZ.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 37,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Figure 17-1 . Two companies, ABC and XYZ, each decide whether to produce a high level of output or a low level of output. In the figure, the dollar amounts are payoffs and they represent annual profits for the two companies.\nRefer to Figure 17-1 . If this game is played only once, then the most likely outcome is that",
+               "options": [
+                  "both firms produce a low level of output.",
+                  "ABC produces a low level of output and XYZ produces a high level of output.",
+                  "ABC produces a high level of output and XYZ produces a low level of output.",
+                  "both firms produce a high level of output."
+               ],
+               "answer": "both firms produce a high level of output.",
+               "explanation": ""
+            },
+            {
+               "q_num": 38,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Figure 17-1 . Two companies, ABC and XYZ, each decide whether to produce a high level of output or a low level of output. In the figure, the dollar amounts are payoffs and they represent annual profits for the two companies.\nRefer to Figure 17-1 . If this game is played repeatedly and ABC uses a tit-for-tat strategy, it will choose a",
+               "options": [
+                  "high level of output in the first round and in subsequent rounds it will choose whatever XYZ chose,in the previous round.",
+                  "low level of output in the first round and in subsequent rounds it will choose whatever XYZ chose,in the previous round.",
+                  "\"high level of output in all rounds, regardless of the choice made by XYZ.\"",
+                  "\"high level of output in all rounds, regardless of the choice made by XYZ.\""
+               ],
+               "answer": "low level of output in the first round and in subsequent rounds it will choose whatever XYZ chose,in the previous round.",
+               "explanation": ""
+            },
+            {
+               "q_num": 39,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Much of the research on game theory in recent decades was driven by attempts to analyze actions of players during",
+               "options": [
+                  "the Great Depression of the 1930s.",
+                  "World War II.",
+                  "the Cold War between the United States and the Soviet Union.",
+                  "the ascendancy of the conservative movement in the United States in the 1970s and 1980s."
+               ],
+               "answer": "the Cold War between the United States and the Soviet Union.",
+               "explanation": ""
+            },
+            {
+               "q_num": 40,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Consider a game of the “Jack and Jill” type in which a market is a duopoly and each firm decides to produce either a “high” quantity of output or a “low” quantity of output. If the two firms successfully reach and main- tain the cooperative outcome of the game, then",
+               "options": [
+                  "both the combined profit of the firms and total surplus are maximized.",
+                  "the combined profit of the firms is maximized but total surplus is not maximized.",
+                  "the combined profit of the firms is not maximized but total surplus is maximized.",
+                  "neither the combined profit of the firms nor total surplus is maximized."
+               ],
+               "answer": "the combined profit of the firms is maximized but total surplus is not maximized.",
+               "explanation": ""
+            },
+            {
+               "q_num": 41,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Games that are played more than once generally",
+               "options": [
+                  "lead to outcomes dominated purely by self-interest.",
+                  "lead to outcomes that do not reflect joint rationality.",
+                  "encourage cheating on cartel production quotas.",
+                  "make collusive arrangements easier to enforce."
+               ],
+               "answer": "make collusive arrangements easier to enforce.",
+               "explanation": ""
+            },
+            {
+               "q_num": 42,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Very often, the reason that players can solve the prisoners' dilemma and reach the most profitable outcome is that",
+               "options": [
+                  "each player tries to capture a large portion of the market share.",
+                  "the players play the game not once but many times.",
+                  "the game becomes more competitive.",
+                  "self interest results in the Nash equilibrium which is the best outcome for the players."
+               ],
+               "answer": "the players play the game not once but many times.",
+               "explanation": ""
+            },
+            {
+               "q_num": 43,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "In a two-person repeated game, a tit-for-tat strategy starts with",
+               "options": [
+                  "cooperation and then each player mimics the other player's last move.",
+                  "cooperation and then each player is unresponsive to the strategic moves of the other player.",
+                  "noncooperation and then each player pursues his or her own self-interest.",
+                  "noncooperation and then each player cooperates when the other player demonstrates a desire for the,cooperative solution."
+               ],
+               "answer": "cooperation and then each player mimics the other player's last move.",
+               "explanation": ""
+            },
+            {
+               "q_num": 44,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "A tit-for-tat strategy starts out",
+               "options": [
+                  "conciliatory and then encourages an optimal social outcome among the other players.",
+                  "unfriendly and then encourages friendly strategies among players.",
+                  "\"friendly, then penalizes unfriendly players, and forgives them if warranted.\"",
+                  "\"aggressive, then compensates losing players, and eventually forgives unfriendly players.\""
+               ],
+               "answer": "\"friendly, then penalizes unfriendly players, and forgives them if warranted.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 45,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "Individual profit earned by Dave, the oligopolist, depends on which of the following?\n(i) The quantity of output that Dave produces\n(ii) The quantities of output that the other firms in the market produce\n(iii) The extent of collusion between Dave and the other firms in the market",
+               "options": [
+                  "(i) and (ii)",
+                  "(ii) and (iii)",
+                  "(iii) only",
+                  "\"(i), (ii), and (iii)\""
+               ],
+               "answer": "\"(i), (ii), and (iii)\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 46,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Which of the following statements is (are) true of the prisoners' dilemma?\n(i) Rational self-interest leads neither party to confess.\n(ii) Cooperation between the prisoners is difficult to maintain.\n(iii) Cooperation between the prisoners is individually rational.",
+               "options": [
+                  "(ii) only",
+                  "(ii) and (iii)",
+                  "(i) and (iii)",
+                  "\"(i), (ii), and (iii)\""
+               ],
+               "answer": "(ii) only",
+               "explanation": ""
+            },
+            {
+               "q_num": 47,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "When the prisoners’ dilemma game is generalized to describe situations other than those that literally involve two prisoners, we see that cooperation between the players of the game",
+               "options": [
+                  "\"can be difficult to maintain, but only when cooperation would make at least one of the players of\",the game worse off.",
+                  "\"can be difficult to maintain, even when cooperation would make both players of the game better\",off.",
+                  "always works to the benefit of society as a whole.",
+                  "always works to the detriment of society as a whole."
+               ],
+               "answer": "\"can be difficult to maintain, even when cooperation would make both players of the game better\",off.",
+               "explanation": ""
+            },
+            {
+               "q_num": 48,
+               "topic": "Prisoners' dilemma | Common resources",
+               "type": "mcq",
+               "question": "Scenario 17-2. Imagine that two oil companies, Mobile and Cargo, own adjacent oil fields. Under the fields is a common pool of oil worth $96 million. Drilling a well to recover oil costs $3 million per well. If each company drills one well, each will get half of the oil and earn a $45 million profit ($48 million in revenue - $3 million in costs). Assume that having X percent of the total wells means that a company will collect X percent of the total revenue.\nRefer to Scenario 17-2 . If Mobile and Cargo are able to successfully collude to maximize their joint profits, Mobile will",
+               "options": [
+                  "drill one well and Cargo will drill one well.",
+                  "drill one well and Cargo will drill two wells.",
+                  "drill two wells and Cargo will drill one well.",
+                  "drill two wells and Cargo will drill two wells."
+               ],
+               "answer": "drill one well and Cargo will drill one well.",
+               "explanation": ""
+            },
+            {
+               "q_num": 49,
+               "topic": "Prisoners' dilemma | Common resources",
+               "type": "mcq",
+               "question": "Scenario 17-2. Imagine that two oil companies, Mobile and Cargo, own adjacent oil fields. Under the fields is a common pool of oil worth $96 million. Drilling a well to recover oil costs $3 million per well. If each company drills one well, each will get half of the oil and earn a $45 million profit ($48 million in revenue - $3 million in costs). Assume that having X percent of the total wells means that a company will collect X percent of the total revenue.\nRefer to Scenario 17-2 . If Mobile and Cargo are able to successfully collude to maximize their joint profits, Mobile will earn",
+               "options": [
+                  "$29 million and Cargo will earn $58 million.",
+                  "$42 million and Cargo will earn $42 million.",
+                  "$45 million and Cargo will earn $45 million.",
+                  "$58 million and Cargo will earn $29 million."
+               ],
+               "answer": "$45 million and Cargo will earn $45 million.",
+               "explanation": ""
+            },
+            {
+               "q_num": 50,
+               "topic": "Prisoners' dilemma | Common resources",
+               "type": "mcq",
+               "question": "Scenario 17-2. Imagine that two oil companies, Mobile and Cargo, own adjacent oil fields. Under the fields is a common pool of oil worth $96 million. Drilling a well to recover oil costs $3 million per well. If each company drills one well, each will get half of the oil and earn a $45 million profit ($48 million in revenue - $3 million in costs). Assume that having X percent of the total wells means that a company will collect X percent of the total revenue.\nRefer to Scenario 17-2 . If Mobile were to drill a second well, what would its profit be if Cargo did not drill a second well?",
+               "options": [
+                  "$29 million",
+                  "$58 million",
+                  "$61 million",
+                  "$64 million"
+               ],
+               "answer": "$58 million",
+               "explanation": ""
+            },
+            {
+               "q_num": 51,
+               "topic": "Prisoners' dilemma | Common resources",
+               "type": "mcq",
+               "question": "Scenario 17-2. Imagine that two oil companies, Mobile and Cargo, own adjacent oil fields. Under the fields is a common pool of oil worth $96 million. Drilling a well to recover oil costs $3 million per well. If each company drills one well, each will get half of the oil and earn a $45 million profit ($48 million in revenue - $3 million in costs). Assume that having X percent of the total wells means that a company will collect X percent of the total revenue.\nRefer to Scenario 17-2 . If Mobile were to drill a second well and Cargo also drilled a second well, what would Mobile's profit be?",
+               "options": [
+                  "$24 million",
+                  "$42 million",
+                  "$45 million",
+                  "$48 million"
+               ],
+               "answer": "$42 million",
+               "explanation": ""
+            },
+            {
+               "q_num": 52,
+               "topic": "Prisoners' dilemma | Common resources",
+               "type": "mcq",
+               "question": "Scenario 17-2. Imagine that two oil companies, Mobile and Cargo, own adjacent oil fields. Under the fields is a common pool of oil worth $96 million. Drilling a well to recover oil costs $3 million per well. If each company drills one well, each will get half of the oil and earn a $45 million profit ($48 million in revenue - $3 million in costs). Assume that having X percent of the total wells means that a company will collect X percent of the total revenue.\nRefer to Scenario 17-2 . Cargo's dominant strategy would lead to what sort of well-drilling behavior?",
+               "options": [
+                  "Cargo will never drill a second well.",
+                  "Cargo will always drill a second well.",
+                  "Cargo will drill a second well only if Mobile drills a well.",
+                  "Cargo will drill a second well only if Mobile does not drill a well."
+               ],
+               "answer": "Cargo will always drill a second well.",
+               "explanation": ""
+            },
+            {
+               "q_num": 53,
+               "topic": "Common resources | Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Suppose two companies own adjacent oil fields. Under the two fields is a common pool of oil worth $30 mil- lion. For each well that is drilled, the company that drills the well incurs a cost of $3 million. Each company can drill up to two wells. What is the likely outcome of this game if each company pursues its own self- interest?",
+               "options": [
+                  "Each company drills one well and experiences a profit of $12 million.",
+                  "Each company drills one well and experiences a profit of $10 million.",
+                  "Each company drills two wells and experiences a profit of $9 million.",
+                  "One company drills two wells and experiences a profit of $14 million; the other company drills one,well and experiences a profit of $7 million."
+               ],
+               "answer": "Each company drills two wells and experiences a profit of $9 million.",
+               "explanation": ""
+            },
+            {
+               "q_num": 54,
+               "topic": "Common resources | Prisoners' dilemma",
+               "type": "mcq",
+               "question": "We know that people tend to overuse common resources. This problem can be viewed as an example of",
+               "options": [
+                  "a game in which the players succeed in reaching the cooperative outcome.",
+                  "the prisoners’ dilemma.",
+                  "a situation to which game theory does not apply because of a lack of strategic thinking.",
+                  "a situation to which game theory does not apply because of too many decision-makers."
+               ],
+               "answer": "the prisoners’ dilemma.",
+               "explanation": ""
+            },
+            {
+               "q_num": 55,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "The paradoxical nature of oligopoly can be demonstrated by the fact that, even though the monopoly outcome is best for the oligopolists,",
+               "options": [
+                  "they collude to set the output level equal to the Nash equilibrium level of output.",
+                  "they have incentives to increase production above the monopoly outcome.",
+                  "they do not behave as profit maximizers.",
+                  "self-interest juxtaposes the profits earned at the Nash equilibrium."
+               ],
+               "answer": "they have incentives to increase production above the monopoly outcome.",
+               "explanation": ""
+            },
+            {
+               "q_num": 56,
+               "topic": "Collusion",
+               "type": "mcq",
+               "question": "Hot dog vendors on the beach fail to cooperate with one another on the quantity of hot dogs they should sell to earn monopoly profits. A consequence of their failure is that, relative to the outcome the vendors would like,\n(i) the quantity of hot dogs supplied is closer to the socially optimal level.\n(ii) the price of hot dogs is closer to marginal cost.\n(iii) the hot dog market at the beach is less competitive.",
+               "options": [
+                  "(i) and (ii)",
+                  "(ii) and (iii)",
+                  "(i) and (iii)",
+                  "(iii) only"
+               ],
+               "answer": "(i) and (ii)",
+               "explanation": ""
+            },
+            {
+               "q_num": 57,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Why would lack of cooperation between criminal suspects be desirable for society as a whole?",
+               "options": [
+                  "The suspects are able to choose optimal outcomes for themselves by acting in their own self,interest.",
+                  "The prisoners' dilemma safeguards the criminals' constitutional rights.",
+                  "More criminals will be convicted.",
+                  "None of the above is correct."
+               ],
+               "answer": "More criminals will be convicted.",
+               "explanation": ""
+            },
+            {
+               "q_num": 58,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "What happens when the prisoners' dilemma game is repeated numerous times in an oligopoly market?\n(i) The firms may well reach the monopoly outcome.\n(ii) The firms may well reach the competitive outcome.\n(iii) Buyers of the oligopolists' product will likely be worse off as a result.",
+               "options": [
+                  "(i) and (ii)",
+                  "(ii) and (iii)",
+                  "(i) and (iii)",
+                  "\"(i), (ii), and (iii)\""
+               ],
+               "answer": "(i) and (iii)",
+               "explanation": ""
+            },
+            {
+               "q_num": 59,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "In game theory, a Nash equilibrium is",
+               "options": [
+                  "an outcome in which each player is doing his best given the strategies chosen by the other players.",
+                  "an outcome in which no player wishes to change her chosen strategy given the strategies chosen by,the other players.",
+                  "the outcome that occurs when all players have a dominant strategy.",
+                  "All of the above are correct."
+               ],
+               "answer": "All of the above are correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 60,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Scenario 17-3. Consider two countries, Muria and Zenya, that are engaged in an arms race. Each country must decide whether to build new weapons or to disarm existing weapons. Each country prefers to have more arms than the other because a large arsenal gives it more influence in world affairs. But each country also prefers to live in a world safe from the other country's weapons. The following table shows the possible outcomes for each decision combination. The numbers in each cell represent the country’s ranking of the outcome (4 = best outcome, 1 = worst outcome).\nRefer to Scenario 17-3 . If Zenya chooses to build new weapons, then Muria will",
+               "options": [
+                  "disarm in order to prevent the loss of influence in world affairs.",
+                  "disarm in order to promote world peace.",
+                  "build new weapons in order to prevent the loss of influence in world affairs.",
+                  "None of the above are correct."
+               ],
+               "answer": "build new weapons in order to prevent the loss of influence in world affairs.",
+               "explanation": ""
+            },
+            {
+               "q_num": 61,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Refer to Scenario 17-3 . If Zenya chooses to disarm its existing weapons, then Muria will",
+               "options": [
+                  "disarm in order to increase its influence in world affairs.",
+                  "disarm in order to promote world peace.",
+                  "build new weapons in order to promote world peace.",
+                  "build new weapons in order to increase its influence in world affairs."
+               ],
+               "answer": "build new weapons in order to increase its influence in world affairs.",
+               "explanation": ""
+            },
+            {
+               "q_num": 62,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Refer to Scenario 17-3 . Which of these statements is correct?\n(i) Muria is better off building new weapons if Zenya builds new weapons.\n(ii) Muria is better off building new weapons if Zenya disarms existing weapons.\n(iii) Building new weapons is Muria's dominant strategy.",
+               "options": [
+                  "(i) and (ii)",
+                  "(ii) and (iii)",
+                  "(i) and (iii)",
+                  "\"(i), (ii), and (iii)\""
+               ],
+               "answer": "\"(i), (ii), and (iii)\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 63,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Refer to Scenario 17-3 . Building new weapons is a dominant strategy for",
+               "options": [
+                  "\"Muria, but not for Zenya.\"",
+                  "\"Zenya, but not for Muria.\"",
+                  "both Muria and Zenya.",
+                  "neither Muria nor Zenya."
+               ],
+               "answer": "both Muria and Zenya.",
+               "explanation": ""
+            },
+            {
+               "q_num": 64,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Refer to Scenario 17-3 . Suppose the two countries agreed to disarm existing weapons. In reality these two countries may have a hard time keeping this agreement due to which of the following reasons?\n(i) \"Even though Muria has no incentive to cheat on the agreement, Zenya has an incentive to\",cheat on the agreement.\n(ii) \"Much like the prisoners’ dilemma, both countries are better off reneging on the agreement\",and building new weapons.\n(iii) Both countries want to increase their world power by building new weapons.",
+               "options": [
+                  "(i) and (ii)",
+                  "(ii) and (iii)",
+                  "(i) and (iii)",
+                  "\"(i), (ii), and (iii)\""
+               ],
+               "answer": "(ii) and (iii)",
+               "explanation": ""
+            },
+            {
+               "q_num": 65,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Scenario 17-4. Consider two cigarette companies, PM Inc. and Brown Inc. If neither company advertises, the two companies split the market and earn $50 million each. If they both advertise, they again split the market, but profits are lower by $10 million since each company must bear the cost of advertising. Yet if one company advertises while the other does not, the one that advertises attracts customers from the other. In this case, the company that advertises earns $60 million while the company that does not advertise earns only $30 million.\nRefer to Scenario 17-4 . What will these two companies do if they behave as individual profit maximizers?",
+               "options": [
+                  "Neither company will advertise.",
+                  "Both companies will advertise.",
+                  "\"One company will advertise, the other will not.\"",
+                  "There is no way of knowing without knowing how many customers are stolen through advertising."
+               ],
+               "answer": "Both companies will advertise.",
+               "explanation": ""
+            },
+            {
+               "q_num": 66,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Scenario 17-4. Consider two cigarette companies, PM Inc. and Brown Inc. If neither company advertises, the two companies split the market and earn $50 million each. If they both advertise, they again split the market, but profits are lower by $10 million since each company must bear the cost of advertising. Yet if one company advertises while the other does not, the one that advertises attracts customers from the other. In this case, the company that advertises earns $60 million while the company that does not advertise earns only $30 million.\nRefer to Scenario 17-4 . The likely outcome of this game is that PM Inc. earns",
+               "options": [
+                  "$30 million and Brown Inc. earns $60 million.",
+                  "$40 million and Brown Inc. earns $40 million.",
+                  "$50 million and Brown Inc. earns $50 million.",
+                  "$60 million and Brown Inc. earns $30 million."
+               ],
+               "answer": "$40 million and Brown Inc. earns $40 million.",
+               "explanation": ""
+            },
+            {
+               "q_num": 67,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Scenario 17-4. Consider two cigarette companies, PM Inc. and Brown Inc. If neither company advertises, the two companies split the market and earn $50 million each. If they both advertise, they again split the market, but profits are lower by $10 million since each company must bear the cost of advertising. Yet if one company advertises while the other does not, the one that advertises attracts customers from the other. In this case, the company that advertises earns $60 million while the company that does not advertise earns only $30 million.\nRefer to Scenario 17-4 . If these two companies collude and agree upon the best joint strategy,",
+               "options": [
+                  "neither company will advertise.",
+                  "both companies will advertise.",
+                  "PM Inc. will advertise but Brown Inc. will not.",
+                  "Brown Inc. will advertise but PM Inc. will not."
+               ],
+               "answer": "neither company will advertise.",
+               "explanation": ""
+            },
+            {
+               "q_num": 68,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Scenario 17-4. Consider two cigarette companies, PM Inc. and Brown Inc. If neither company advertises, the two companies split the market and earn $50 million each. If they both advertise, they again split the market, but profits are lower by $10 million since each company must bear the cost of advertising. Yet if one company advertises while the other does not, the one that advertises attracts customers from the other. In this case, the company that advertises earns $60 million while the company that does not advertise earns only $30 million.\nRefer to Scenario 17-4 . PM Inc.'s dominant strategy is to",
+               "options": [
+                  "refrain from advertising regardless of whether Brown Inc. advertises.",
+                  "advertise only if Brown Inc. advertises.",
+                  "advertise only if Brown Inc. does not advertise.",
+                  "advertise regardless of whether Brown Inc. advertises."
+               ],
+               "answer": "advertise regardless of whether Brown Inc. advertises.",
+               "explanation": ""
+            },
+            {
+               "q_num": 69,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Scenario 17-4. Consider two cigarette companies, PM Inc. and Brown Inc. If neither company advertises, the two companies split the market and earn $50 million each. If they both advertise, they again split the market, but profits are lower by $10 million since each company must bear the cost of advertising. Yet if one company advertises while the other does not, the one that advertises attracts customers from the other. In this case, the company that advertises earns $60 million while the company that does not advertise earns only $30 million.\nRefer to Scenario 17-4 . In 1971, Congress passed a law that banned cigarette advertising on television. If cigarette companies are profit maximizers, it is likely that",
+               "options": [
+                  "neither company opposed the ban on advertising.",
+                  "Brown Inc. sued the federal government on grounds that the ban constitutes a civil rights violation.",
+                  "both companies sued the federal government on grounds that the ban constitutes a civil rights,violation.",
+                  "both companies retaliated with black-market operations."
+               ],
+               "answer": "neither company opposed the ban on advertising.",
+               "explanation": ""
+            },
+            {
+               "q_num": 70,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Two suspected drug dealers are stopped by the highway patrol for speeding. The officer searches the car and finds a small bag of marijuana and arrests the two. During the interrogation, each is separately offered the fol- lowing: \"If you confess to dealing drugs and testify against your partner, you will be given immunity and re- leased while your partner will get 10 years in prison. If you both confess, you will each get 5 years.\" If neither confesses, there is no evidence of drug dealing, and the most they could get is one year each for possession of marijuana. If each suspected drug dealer follows a dominant strategy, what should he/she do?",
+               "options": [
+                  "Confess regardless of the partner's decision",
+                  "Confess only if the partner confesses",
+                  "Don’t confess regardless of the partner's decision",
+                  "Don’t confess only if the partner doesn’t confess"
+               ],
+               "answer": "Confess regardless of the partner's decision",
+               "explanation": ""
+            },
+            {
+               "q_num": 71,
+               "topic": "Collusion",
+               "type": "mcq",
+               "question": "A lack of cooperation by oligopolists trying to maintain monopoly profits",
+               "options": [
+                  "is desirable for society as a whole.",
+                  "is not desirable for society as a whole.",
+                  "may or may not be desirable for society as a whole.",
+                  "is not a concern due to antitrust laws."
+               ],
+               "answer": "is desirable for society as a whole.",
+               "explanation": ""
+            },
+            {
+               "q_num": 72,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Oligopolists may well be able to reach their preferred, cooperative outcome if",
+               "options": [
+                  "the number of oligopolists is large.",
+                  "they learn that a Nash equilibrium is in their best long-term interests.",
+                  "a sufficient number of firms can be persuaded to lower their prices.",
+                  "the game they play is repeated a sufficient number of times."
+               ],
+               "answer": "the game they play is repeated a sufficient number of times.",
+               "explanation": ""
+            },
+            {
+               "q_num": 73,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Martha and Oleg are competitors in a local market and each is trying to decide if it is worthwhile to advertise. If both of them advertise, each will earn a profit of $5,000. If neither of them advertise, each will earn a profit of $10,000. If one advertises and the other doesn't, then the one who advertises will earn a profit of $15,000 and the other will earn $7,000. To earn the highest profit, Martha",
+               "options": [
+                  "\"should advertise, and she will earn $5,000.\"",
+                  "\"should advertise, and she will earn $15,000.\"",
+                  "\"should not advertise, and she will earn $10,000.\"",
+                  "has no dominant strategy."
+               ],
+               "answer": "has no dominant strategy.",
+               "explanation": ""
+            },
+            {
+               "q_num": 74,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Barb and Sue are competitors in a local market. Each is trying to decide if it is better to advertise on TV, on radio, or not at all. If they both advertise on TV, each will earn a profit of $5,000. If they both advertise on ra- dio, each will earn a profit of $7,000. If neither advertises at all, each will earn a profit of $10,000. If one ad- vertises on TV and other advertises on radio, then the one advertising on TV will earn $8,000 and the other will earn $3,000. If one advertises on TV and the other does not advertise, then the one advertising on TV will earn $15,000 and the other will earn $2,000. If one advertises on radio and the other does not advertise, then the one advertising on radio will earn $12,000 and the other will earn $4,000. If both follow their dominant strategy, then Barb will",
+               "options": [
+                  "\"advertise on TV and earn $5,000.\"",
+                  "\"advertise on radio and earn $7,000.\"",
+                  "\"not advertise at all and earn $10,000.\"",
+                  "None of the above is correct. Barb and Sue do not have dominant strategies."
+               ],
+               "answer": "\"advertise on TV and earn $5,000.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 75,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "Dave and Andy are competitors in a local market. Each is trying to decide if it is better to advertise on TV, on radio, or not at all. If they both advertise on TV, each will earn a profit of $4,000. If they both advertise on ra- dio, each will earn a profit of $7,000. If neither advertises at all, each will earn a profit of $10,000. If one ad- vertises on TV and other advertises on radio, then the one advertising on TV will earn $6,000 and the other will earn $5,000. If one advertises on TV and the other does not advertise, then the one advertising on TV will earn $11,000 and the other will earn $2,000. If one advertises on radio and the other does not advertise, then the one advertising on radio will earn $12,000 and the other will earn $4,000. If both follow their dominant strategy, then Dave will",
+               "options": [
+                  "\"advertise on TV and earn $4,000.\"",
+                  "\"advertise on radio and earn $7,000.\"",
+                  "\"advertise on TV and earn $11,000.\"",
+                  "\"not advertise and earn $10,000.\""
+               ],
+               "answer": "\"advertise on radio and earn $7,000.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 76,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "George and Jerry are competitors in a local market. Each is trying to decide if it is better to advertise on TV, on radio, or not at all. If they both advertise on TV, each will earn a profit of $3,000. If they both advertise on radio, each will earn a profit of $5,000. If neither advertises at all, each will earn a profit of $10,000. If one advertises on TV and the other advertises on radio, then the one advertising on TV will earn $4,000 and the other will earn $2,000. If one advertises on TV and the other does not advertise, then the one advertising on TV will earn $8,000 and the other will earn $5,000. If one advertises on radio and the other does not advertise, then the one advertising on radio will earn $9,000 and the other will earn $6,000. If both follow their dominant strategy, then George will",
+               "options": [
+                  "\"advertise on TV and earn $3,000.\"",
+                  "\"advertise on radio and earn $5,000.\"",
+                  "\"advertise on TV and earn $8,000.\"",
+                  "\"not advertise and earn $10,000.\""
+               ],
+               "answer": "\"not advertise and earn $10,000.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 77,
+               "topic": "Prisoners' dilemma",
+               "type": "mcq",
+               "question": "Laurel and Janet are competitors in a local market and each is trying to decide if it is worthwhile to advertise. If both of them advertise, each will earn a profit of $5,000. If neither of them advertise, each will earn a profit of $10,000. If one advertises and the other doesn't, then the one who advertises will earn a profit of $12,000 and the other will earn $2,000. In this version of the prisoners' dilemma, if the game is played only once, Lau- rel should",
+               "options": [
+                  "\"advertise, but if the game is to be repeated many times she should probably not advertise.\"",
+                  "\"advertise, and if the game is to be repeated many times she should still probably advertise.\"",
+                  "\"not advertise, but if the game is to be repeated many times she should probably advertise.\"",
+                  "\"not advertise, and if the game is to be repeated many times she should still not advertise.\""
+               ],
+               "answer": "\"advertise, but if the game is to be repeated many times she should probably not advertise.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 78,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-14\nThis table shows a game played between two players, A and B. The payoffs in the table are shown as (Payoff to A, Payoff to B).\nRefer to Table 17-14. If player A chooses his/her best strategy, player B should",
+               "options": [
+                  "choose right and earn a payoff of 2.",
+                  "choose right and earn a payoff of 3.",
+                  "choose left and earn a payoff of 1.",
+                  "choose left and earn a payoff of 0."
+               ],
+               "answer": "choose right and earn a payoff of 2.",
+               "explanation": ""
+            },
+            {
+               "q_num": 79,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-14\nThis table shows a game played between two players, A and B. The payoffs in the table are shown as (Payoff to A, Payoff to B).\nRefer to Table 17-14. If both players choose their best strategies, player A will earn a payoff of",
+               "options": [
+                  "0.",
+                  "1.",
+                  "2.",
+                  "3."
+               ],
+               "answer": "2.",
+               "explanation": ""
+            },
+            {
+               "q_num": 80,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-14\nThis table shows a game played between two players, A and B. The payoffs in the table are shown as (Payoff to A, Payoff to B).\nRefer to Table 17-14. Which of the following statements about this game is true?",
+               "options": [
+                  "Up is a dominant strategy for A and Right is a dominant strategy for B.",
+                  "Up is a dominant strategy for A and Left is a dominant strategy for B.",
+                  "Down is a dominant strategy for A and Right is a dominant strategy for B.",
+                  "Down is a dominant strategy for A and Left is a dominant strategy for B."
+               ],
+               "answer": "Up is a dominant strategy for A and Right is a dominant strategy for B.",
+               "explanation": ""
+            },
+            {
+               "q_num": 81,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Table 17-14\nThis table shows a game played between two players, A and B. The payoffs in the table are shown as (Payoff to A, Payoff to B).\nRefer to Table 17-14. Which outcome is the Nash equilibrium in this game?",
+               "options": [
+                  "Up-Right",
+                  "Up-Left",
+                  "Down-Right",
+                  "Down-Left"
+               ],
+               "answer": "Up-Right",
+               "explanation": ""
+            },
+            {
+               "q_num": 82,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-2 . Hector and Bart are roommates. On a particular day, their apartment needs to be cleaned. Each person has to decide whether to take part in cleaning. At the end of the day, either the apartment will be completely clean (if one or both roommates take part in cleaning), or it will remain dirty (if neither roommate cleans). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-2 . The dominant strategy for Hector is to",
+               "options": [
+                  "\"clean, and the dominant strategy for Bart is to clean.\"",
+                  "\"clean, and the dominant strategy for Bart is to refrain from cleaning.\"",
+                  "\"refrain from cleaning, and the dominant strategy for Bart is to clean.\"",
+                  "\"refrain from cleaning, and the dominant strategy for Bart is to refrain from cleaning.\""
+               ],
+               "answer": "\"refrain from cleaning, and the dominant strategy for Bart is to refrain from cleaning.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 83,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-2 . Hector and Bart are roommates. On a particular day, their apartment needs to be cleaned. Each person has to decide whether to take part in cleaning. At the end of the day, either the apartment will be completely clean (if one or both roommates take part in cleaning), or it will remain dirty (if neither roommate cleans). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-2 . In pursuing his own self-interest, Bart will",
+               "options": [
+                  "refrain from cleaning whether or not Hector cleans.",
+                  "clean only if Hector cleans.",
+                  "clean only if Hector refrains from cleaning.",
+                  "clean whether or not Hector cleans."
+               ],
+               "answer": "refrain from cleaning whether or not Hector cleans.",
+               "explanation": ""
+            },
+            {
+               "q_num": 84,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Figure 17-2 . Hector and Bart are roommates. On a particular day, their apartment needs to be cleaned. Each person has to decide whether to take part in cleaning. At the end of the day, either the apartment will be completely clean (if one or both roommates take part in cleaning), or it will remain dirty (if neither roommate cleans). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-2 . If this game is played only once, then the most likely outcome is that",
+               "options": [
+                  "Hector and Bart both clean.",
+                  "Hector cleans and Bart does not clean.",
+                  "Bart cleans and Hector does not clean.",
+                  "neither Hector nor Bart cleans."
+               ],
+               "answer": "neither Hector nor Bart cleans.",
+               "explanation": ""
+            },
+            {
+               "q_num": 85,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-2 . Hector and Bart are roommates. On a particular day, their apartment needs to be cleaned. Each person has to decide whether to take part in cleaning. At the end of the day, either the apartment will be completely clean (if one or both roommates take part in cleaning), or it will remain dirty (if neither roommate cleans). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-2 . In pursuing his own self-interest, Hector will",
+               "options": [
+                  "refrain from cleaning whether or not Bart cleans.",
+                  "clean only if Bart cleans.",
+                  "clean only if Bart refrains from cleaning.",
+                  "clean whether or not Bart cleans."
+               ],
+               "answer": "refrain from cleaning whether or not Bart cleans.",
+               "explanation": ""
+            },
+            {
+               "q_num": 86,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Figure 17-2 . Hector and Bart are roommates. On a particular day, their apartment needs to be cleaned. Each person has to decide whether to take part in cleaning. At the end of the day, either the apartment will be completely clean (if one or both roommates take part in cleaning), or it will remain dirty (if neither roommate cleans). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-2 . The possible outcome in which both Hector and Bart clean is analogous to which of the following outcomes of the duopoly game?",
+               "options": [
+                  "The duopolists collude to achieve the monopoly outcome.",
+                  "The duopolists collude to achieve the monopolistically-competitive outcome.",
+                  "The outcome is the one that is most preferable for consumers of the duopolists’ product.",
+                  "The outcome is the one that is least preferable for both the duopolists and for the consumers of their,product."
+               ],
+               "answer": "The duopolists collude to achieve the monopoly outcome.",
+               "explanation": ""
+            },
+            {
+               "q_num": 87,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-3 . Katie and Taylor are roommates. On a particular day, their lawn needs to be mowed. Each person has to decide whether to take part in mowing the lawn. At the end of the day, either the lawn will be mowed (if one or both roommates take part in mowing), or it will remain unmowed (if neither roommate mows). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-3 . The dominant strategy for Taylor is to",
+               "options": [
+                  "\"mow, and the dominant strategy for Katie is to mow.\"",
+                  "\"mow, and the dominant strategy for Katie is to refrain from mowing.\"",
+                  "\"refrain from mowing, and the dominant strategy for Katie is to mow.\"",
+                  "\"refrain from mowing, and there is no dominant strategy for Katie.\""
+               ],
+               "answer": "\"refrain from mowing, and there is no dominant strategy for Katie.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 88,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Figure 17-3 . Katie and Taylor are roommates. On a particular day, their lawn needs to be mowed. Each person has to decide whether to take part in mowing the lawn. At the end of the day, either the lawn will be mowed (if one or both roommates take part in mowing), or it will remain unmowed (if neither roommate mows). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-3 . If this game is played only once, then which of the following outcomes is the most likely one?",
+               "options": [
+                  "Katie and Taylor both mow.",
+                  "Katie mows and Taylor does not mow.",
+                  "Taylor mows and Katie does not mow.",
+                  "All of the above outcomes are equally likely."
+               ],
+               "answer": "Katie mows and Taylor does not mow.",
+               "explanation": ""
+            },
+            {
+               "q_num": 89,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-3 . Katie and Taylor are roommates. On a particular day, their lawn needs to be mowed. Each person has to decide whether to take part in mowing the lawn. At the end of the day, either the lawn will be mowed (if one or both roommates take part in mowing), or it will remain unmowed (if neither roommate mows). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-3 . In pursuing her own self-interest, Taylor will",
+               "options": [
+                  "refrain from mowing whether or not Katie mows.",
+                  "mow only if Katie mows.",
+                  "mow only if Katie refrains from mowing.",
+                  "mow whether or not Katie mows."
+               ],
+               "answer": "refrain from mowing whether or not Katie mows.",
+               "explanation": ""
+            },
+            {
+               "q_num": 90,
+               "topic": "Game theory | Dominant strategy",
+               "type": "mcq",
+               "question": "Figure 17-3 . Katie and Taylor are roommates. On a particular day, their lawn needs to be mowed. Each person has to decide whether to take part in mowing the lawn. At the end of the day, either the lawn will be mowed (if one or both roommates take part in mowing), or it will remain unmowed (if neither roommate mows). With happiness measured on a scale of 1 (very unhappy) to 10 (very happy), the possible outcomes are as follows:\nRefer to Figure 17-3 . In pursuing her own self-interest, Katie will",
+               "options": [
+                  "refrain from mowing whether or not Taylor mows.",
+                  "mow only if Taylor mows.",
+                  "mow only if Taylor refrains from mowing.",
+                  "mow whether or not Taylor mows."
+               ],
+               "answer": "mow only if Taylor refrains from mowing.",
+               "explanation": ""
+            },
+            {
+               "q_num": 91,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "In the prisoners’ dilemma,",
+               "options": [
+                  "the prisoners easily collude in order to achieve the best possible payoff for both.",
+                  "only one player has a dominant strategy.",
+                  "when each player chooses his dominant strategy the players achieve the best joint outcome.",
+                  "when each player chooses his dominant strategy the players reach a Nash equilibrium."
+               ],
+               "answer": "when each player chooses his dominant strategy the players reach a Nash equilibrium.",
+               "explanation": ""
+            },
+            {
+               "q_num": 92,
+               "topic": "Common resources | Prisoners' dilemma",
+               "type": "mcq",
+               "question": "In the game in which two oil companies own adjacent oil fields, the companies will not use the oil efficiently because",
+               "options": [
+                  "neither company has a dominant strategy in the game.",
+                  "the companies collude and produce a quantity of oil that is less than the socially-efficient quantity.",
+                  "the pool from which they recover the oil is a common resource.",
+                  "the pool from which they recover the oil is not large enough to allow both companies to earn a,positive profit."
+               ],
+               "answer": "the pool from which they recover the oil is a common resource.",
+               "explanation": ""
+            },
+            {
+               "q_num": 93,
+               "topic": "Nash equilibrium",
+               "type": "mcq",
+               "question": "An equilibrium occurs in a game when",
+               "options": [
+                  "price equals marginal cost.",
+                  "quantity supplied equals quantity demanded.",
+                  "all independent strategies counterbalance all dominant strategies.",
+                  "all players follow a strategy that they have no incentive to change."
+               ],
+               "answer": "all players follow a strategy that they have no incentive to change.",
+               "explanation": ""
+            },
+            {
+               "q_num": 94,
+               "topic": "Dominant strategy",
+               "type": "mcq",
+               "question": "The players in a two-person game are choosing between Strategy X and Strategy Y. If the second player chooses Strategy X, the first player's best outcome is to select X. If the second player chooses Strategy Y, the first player's best outcome is to select X. For the first player, Strategy X is called a",
+               "options": [
+                  "dominant strategy.",
+                  "collusive strategy.",
+                  "repeated-trial strategy.",
+                  "cartel strategy."
+               ],
+               "answer": "dominant strategy.",
+               "explanation": ""
+            },
+            {
+               "q_num": 95,
+               "topic": "Game theory",
+               "type": "mcq",
+               "question": "Suppose that two poker players believe that they are superior players to the rest of the people at their table. Further suppose that the two players make an agreement to concede hands to each other in order to drive the other players from the game first. Economists would model such behavior as",
+               "options": [
+                  "monopolistic competition.",
+                  "game theory.",
+                  "predatory pricing.",
+                  "a dominant strategy."
+               ],
+               "answer": "game theory.",
+               "explanation": ""
+            },
+            {
+               "q_num": 96,
+               "topic": null,
+               "type": "mcq",
+               "question": "After initial success, the OPEC cartel saw the price of oil and the revenues of its members decline due, in part, to",
+               "options": [
+                  "the low elasticity of demand for oil in the short run.",
+                  "the large number of buyers from each member nation.",
+                  "surging demand for oil in the early 1980s.",
+                  "OPEC members failing to produce their agreed-upon production levels."
+               ],
+               "answer": "OPEC members failing to produce their agreed-upon production levels.",
+               "explanation": ""
+            },
+            {
+               "q_num": 97,
+               "topic": "Oligopoly | Game theory",
+               "type": "mcq",
+               "question": "A cooperative agreement among oligopolists is more likely to be maintained,",
+               "options": [
+                  "the greater the number of oligopolists.",
+                  "the larger the number of buyers of the oligopolists’ product.",
+                  "the smaller the number of buyers of the oligopolists’ product.",
+                  "the more likely it is that the game among the oligopolists will be played over and over again."
+               ],
+               "answer": "the more likely it is that the game among the oligopolists will be played over and over again.",
+               "explanation": ""
+            },
+            {
+               "q_num": 98,
+               "topic": "Oligopoly | Game theory",
+               "type": "mcq",
+               "question": "A cooperative agreement among oligopolists is less likely to be maintained,",
+               "options": [
+                  "the greater the number of oligopolists.",
+                  "the larger the number of buyers of the oligopolists’ product.",
+                  "the smaller the number of buyers of the oligopolists’ product.",
+                  "the more likely it is that the game among the oligopolists will be played over and over again."
+               ],
+               "answer": "the greater the number of oligopolists.",
+               "explanation": ""
+            }
+         ]
+      },
+      "sector4": {
+         "title": "PUBLIC POLICY TOWARD OLIGOPOLIES",
+         "questions": [
+            {
+               "q_num": 1,
+               "topic": "Cooperation | Oligopoly",
+               "type": "mcq",
+               "question": "From society’s standpoint, cooperation among oligopolists is",
+               "options": [
+                  "\"desirable, because it leads to less conflict among firms and a wider variety of products for consumers.\"",
+                  "\"desirable, because it leads to an outcome closer to the competitive outcome than what would be observed in the absence of cooperation.\"",
+                  "\"undesirable, because it leads to output levels that are too low and prices that are too high.\"",
+                  "\"undesirable, because it leads to output levels that are too high and prices that are too high.\""
+               ],
+               "answer": "\"undesirable, because it leads to output levels that are too low and prices that are too high.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 2,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "A law that encourages market competition by prohibiting firms from gaining or exercising excessive market power is",
+               "options": [
+                  "a patent.",
+                  "impossible to enforce.",
+                  "an antitrust law.",
+                  "an externality law."
+               ],
+               "answer": "an antitrust law.",
+               "explanation": ""
+            },
+            {
+               "q_num": 3,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The primary purpose of antitrust legislation is to",
+               "options": [
+                  "protect small businesses.",
+                  "protect the competitiveness of U.S. markets.",
+                  "protect the prices of American-made products.",
+                  "ensure firms earn only a fair profit."
+               ],
+               "answer": "protect the competitiveness of U.S. markets.",
+               "explanation": ""
+            },
+            {
+               "q_num": 4,
+               "topic": "Economic welfare",
+               "type": "mcq",
+               "question": "To move the allocation of resources closer to the social optimum, policymakers should typically try to induce firms in an oligopoly to",
+               "options": [
+                  "collude with each other.",
+                  "form various degrees of cartels.",
+                  "compete rather than cooperate with each other.",
+                  "cooperate rather than compete with each other."
+               ],
+               "answer": "compete rather than cooperate with each other.",
+               "explanation": ""
+            },
+            {
+               "q_num": 5,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "Which of the following statements is true?",
+               "options": [
+                  "The proper scope of antitrust laws is well defined and definite.",
+                  "Antitrust laws focus on granting certain firms the option to form a cartel.",
+                  "Policymakers have the difficult task of determining whether some firms' decisions have legitimate,purposes even though they appear anti-competitive.",
+                  "\"There is always a need for policymakers to try to limit a firm's pricing power, regardless of whether the firm's market is competitive, a monopoly, or an oligopoly.\""
+               ],
+               "answer": "Policymakers have the difficult task of determining whether some firms' decisions have legitimate,purposes even though they appear anti-competitive.",
+               "explanation": ""
+            },
+            {
+               "q_num": 6,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "Which of the following is necessarily a problem with antitrust laws?",
+               "options": [
+                  "They may target a business whose practices appear to be anti-competitive but in fact have legitimate purposes.",
+                  "They promote competition.",
+                  "They limit monopoly power.",
+                  "They prohibit firms from entering or exiting a market."
+               ],
+               "answer": "They may target a business whose practices appear to be anti-competitive but in fact have legitimate purposes.",
+               "explanation": ""
+            },
+            {
+               "q_num": 7,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "Which of the following groups or entities has the authority to initiate legal suits to enforce antitrust laws?",
+               "options": [
+                  "the U.S. Justice Department",
+                  "private citizens",
+                  "corporations",
+                  "All of the above are correct."
+               ],
+               "answer": "All of the above are correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 8,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "Which government entity is charged with investigating and enforcing antitrust laws?",
+               "options": [
+                  "the U.S. Justice Department",
+                  "the U.S. Commerce Department",
+                  "the U.S. Treasury Department",
+                  "\"the Bureau of Alcohol, Tobacco, and Firearms\""
+               ],
+               "answer": "the U.S. Justice Department",
+               "explanation": ""
+            },
+            {
+               "q_num": 9,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "Who wrote, \"People of the same trade seldom meet together, but the conversation ends in a conspiracy against the public, or in some diversion to raise prices.\"?",
+               "options": [
+                  "Thomas Jefferson",
+                  "Adam Smith",
+                  "Bill Gates",
+                  "Robert Axelrod"
+               ],
+               "answer": "Adam Smith",
+               "explanation": ""
+            },
+            {
+               "q_num": 10,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Sherman Antitrust Act",
+               "options": [
+                  "was passed to encourage judicial leniency in the review of cooperative agreements.",
+                  "was concerned with self-interest dominated Nash equilibriums in prisoners' dilemma games.",
+                  "enhanced the ability to enforce cartel agreements.",
+                  "restricted the ability of competitors to engage in cooperative agreements."
+               ],
+               "answer": "restricted the ability of competitors to engage in cooperative agreements.",
+               "explanation": ""
+            },
+            {
+               "q_num": 11,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Sherman Act made cooperative agreements",
+               "options": [
+                  "unenforceable outside of established judicial review processes.",
+                  "enforceable with proper judicial review.",
+                  "a criminal conspiracy.",
+                  "\"a crime, but did not give direction on possible penalties.\""
+               ],
+               "answer": "a criminal conspiracy.",
+               "explanation": ""
+            },
+            {
+               "q_num": 12,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Sherman Antitrust Act was passed in",
+               "options": [
+                  "1836.",
+                  "1890.",
+                  "1914.",
+                  "1946."
+               ],
+               "answer": "1890.",
+               "explanation": ""
+            },
+            {
+               "q_num": 13,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Sherman Antitrust Act prohibits price-fixing in the sense that",
+               "options": [
+                  "competing executives cannot even talk about fixing prices.",
+                  "\"competing executives can talk about fixing prices, but they cannot take action to fix prices.\"",
+                  "a price-fixing agreement can lead to prosecution provided the government can show that the public,was not well-served by the agreement.",
+                  "None of the above is correct. The Sherman Act did not address the matter of price-fixing."
+               ],
+               "answer": "competing executives cannot even talk about fixing prices.",
+               "explanation": ""
+            },
+            {
+               "q_num": 14,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Sherman Antitrust Act prohibits executives of competing companies from",
+               "options": [
+                  "\"fixing prices, but it does not prohibit them from talking about fixing prices.\"",
+                  "even talking about fixing prices.",
+                  "sharing with one another their knowledge of game theory.",
+                  "failing to stand by agreements that they had made with one another."
+               ],
+               "answer": "even talking about fixing prices.",
+               "explanation": ""
+            },
+            {
+               "q_num": 15,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Sherman Antitrust Act",
+               "options": [
+                  "overturned centuries-old views of English and American judges on agreements among competitors.",
+                  "had the effect of discouraging private lawsuits against conspiring oligopolists.",
+                  "strengthened the Clayton Act.",
+                  "elevated agreements among conspiring oligopolists from an unenforceable contract to a criminal,conspiracy."
+               ],
+               "answer": "elevated agreements among conspiring oligopolists from an unenforceable contract to a criminal,conspiracy.",
+               "explanation": ""
+            },
+            {
+               "q_num": 16,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "Which of the following prohibits executives of competing firms from even talking about fixing prices?",
+               "options": [
+                  "Sherman Act",
+                  "Clayton Act",
+                  "Federal Trade Commission",
+                  "U.S. Justice Department"
+               ],
+               "answer": "Sherman Act",
+               "explanation": ""
+            },
+            {
+               "q_num": 17,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "Two CEOs from different firms in the same market collude to fix the price in the market. This action violates the",
+               "options": [
+                  "Clayton Act of 1914.",
+                  "Sherman Antitrust Act of 1890.",
+                  "Crandall-Putnam ruling of 1983.",
+                  "Jackson-Microsoft ruling of 2000."
+               ],
+               "answer": "Sherman Antitrust Act of 1890.",
+               "explanation": ""
+            },
+            {
+               "q_num": 18,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Clayton Act",
+               "options": [
+                  "preceded the Sherman Act.",
+                  "replaced the Sherman Act.",
+                  "strengthened the Sherman Act.",
+                  "was specifically designed to reduce the ability of cartels to organize."
+               ],
+               "answer": "strengthened the Sherman Act.",
+               "explanation": ""
+            },
+            {
+               "q_num": 19,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "According to the Clayton Act,",
+               "options": [
+                  "lawyers are given an incentive to reduce the number of cases involving cooperative arrangements.",
+                  "individuals can sue to recover damages from illegal cooperative agreements.",
+                  "the government was able to incarcerate the CEO of a firm for illegal pricing arrangements.",
+                  "private lawsuits are discouraged."
+               ],
+               "answer": "individuals can sue to recover damages from illegal cooperative agreements.",
+               "explanation": ""
+            },
+            {
+               "q_num": 20,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "If a person can prove that she was damaged by an illegal arrangement to restrain trade, that person can sue and recover",
+               "options": [
+                  "\"the damages she sustained, as provided for in the Sherman Act.\"",
+                  "\"the damages she sustained, as provided for in the Clayton Act.\"",
+                  "\"three times the damages she sustained, as provided for in the Sherman Act.\"",
+                  "\"three times the damages she sustained, as provided for in the Clayton Act.\""
+               ],
+               "answer": "\"three times the damages she sustained, as provided for in the Clayton Act.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 21,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Which of the following statements is false ?",
+               "options": [
+                  "The Clayton Act allows triple damages in civil lawsuits in order to encourage lawsuits against,conspiring oligopolists.",
+                  "Many economists defend the practice of resale price maintenance on the grounds that it may help,solve a free-rider problem.",
+                  "Most economists agree that predatory pricing is a profitable business strategy that usually preserves market power.",
+                  "The U.S. Supreme Court's view that the practice of tying usually allows a firm to extend its market,power is not generally supported by economic theory."
+               ],
+               "answer": "Most economists agree that predatory pricing is a profitable business strategy that usually preserves market power.",
+               "explanation": ""
+            },
+            {
+               "q_num": 22,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "When individuals are damaged by an illegal arrangement to restrain trade, which law allows them to pursue civil action and recover up to three times the damages sustained?",
+               "options": [
+                  "Trade Damage Act",
+                  "Clayton Act",
+                  "Sherman Act",
+                  "No law allows individuals to pursue civil action and recover up to three times the damages,sustained."
+               ],
+               "answer": "Clayton Act",
+               "explanation": ""
+            },
+            {
+               "q_num": 23,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "The Clayton Act of 1914 allows those harmed by illegal arrangements to restrain trade to",
+               "options": [
+                  "sue for up to two times the damages they incurred.",
+                  "sue for up to three times the damages they incurred.",
+                  "sue for up to four times the damages they incurred.",
+                  "\"sue for damages, but only for the actual amount of damages they incurred.\""
+               ],
+               "answer": "sue for up to three times the damages they incurred.",
+               "explanation": ""
+            },
+            {
+               "q_num": 24,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "Antitrust laws in general are used to",
+               "options": [
+                  "prevent oligopolists from acting in ways that make markets less competitive.",
+                  "encourage oligopolists to pursue cooperative-interest at the expense of self-interest.",
+                  "encourage frivolous lawsuits among competitive firms.",
+                  "encourage all firms to cut production levels and cut prices."
+               ],
+               "answer": "prevent oligopolists from acting in ways that make markets less competitive.",
+               "explanation": ""
+            },
+            {
+               "q_num": 25,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "The practice of selling a product to retailers and requiring the retailers to charge a specific price for the prod- uct is called",
+               "options": [
+                  "fixed retail pricing.",
+                  "resale price maintenance.",
+                  "cost plus pricing.",
+                  "unfair trade."
+               ],
+               "answer": "resale price maintenance.",
+               "explanation": ""
+            },
+            {
+               "q_num": 26,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "Economists claim that a resale price maintenance agreement is not anti-competitive because",
+               "options": [
+                  "suppliers are never able to exercise noncompetitive market power.",
+                  "\"if a supplier has market power, it will be likely to exert that power through wholesale price rather than retail price.\"",
+                  "retail markets are inherently noncompetitive.",
+                  "retail cartel agreements cannot increase retail profits."
+               ],
+               "answer": "\"if a supplier has market power, it will be likely to exert that power through wholesale price rather than retail price.\"",
+               "explanation": ""
+            },
+            {
+               "q_num": 27,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "Assume that Peach Computers has entered into a resale price maintenance agreement with Computer Super Stores Inc. (CSS Inc.) but not with CompuMart. In this case,",
+               "options": [
+                  "the wholesale price of Peach computers will be different for CSS Inc. than it is for CompuMart.",
+                  "Peach computers will never increase profits by having a resale price maintenance agreement with,all retail outlets that sell its products.",
+                  "CompuMart might benefit from customers who go to CSS Inc. for information about different,computers.",
+                  "CSS Inc. will sell Peach computers at a lower price than CompuMart."
+               ],
+               "answer": "CompuMart might benefit from customers who go to CSS Inc. for information about different,computers.",
+               "explanation": ""
+            },
+            {
+               "q_num": 28,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "Assume that Apple Computer has entered into an enforceable resale price maintenance agreement with Com- puter Super Stores Inc. (CSS Inc.) and Wal-Mart. Which of the following will always be true?",
+               "options": [
+                  "The wholesale price of Apple computers will be different for CSS Inc. than it is for Wal-Mart.",
+                  "Wal-Mart will benefit from customers who go to CSS Inc. for information about different computers.",
+                  "CSS Inc. will sell Apple computers at a lower price than Wal-Mart.",
+                  "Wal-Mart and CSS Inc. will always sell Apple Computers for exactly the same price."
+               ],
+               "answer": "Wal-Mart and CSS Inc. will always sell Apple Computers for exactly the same price.",
+               "explanation": ""
+            },
+            {
+               "q_num": 29,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "A firm that practices resale price maintenance",
+               "options": [
+                  "has incentive to reduce competition between its retailers. Resale price maintenance can lead to,more service.",
+                  "has incentive to reduce competition between its retailers. Resale price maintenance cannot lead to,more service.",
+                  "has no incentive to reduce competition between its retailers. Resale price maintenance can lead to,more service.",
+                  "has no incentive to reduce competition between its retailers. Resale price maintenance cannot lead to more service."
+               ],
+               "answer": "has no incentive to reduce competition between its retailers. Resale price maintenance can lead to,more service.",
+               "explanation": ""
+            },
+            {
+               "q_num": 30,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "Resale price maintenance involves a firm",
+               "options": [
+                  "colluding with another firm to restrict output and raise prices.",
+                  "selling two individual products together for a single price rather than selling each product individually at separate prices.",
+                  "temporarily cutting the price of its product to drive a competitor out of the market.",
+                  "requiring that the firm reselling its product do so at a specified price."
+               ],
+               "answer": "requiring that the firm reselling its product do so at a specified price.",
+               "explanation": ""
+            },
+            {
+               "q_num": 31,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "The manufacturer of Bozz Radios sells radios to retail stores for $500 each, and it requires the retail stores to charge customers $550 per radio. Any retailer that charges less than $550 would violate its contract with Bozz Radios. What do economists call this business practice?",
+               "options": [
+                  "predatory pricing",
+                  "resale price maintenance",
+                  "tying",
+                  "leverage"
+               ],
+               "answer": "resale price maintenance",
+               "explanation": ""
+            },
+            {
+               "q_num": 32,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "If Levi Strauss & Co. were to require every retailer that carried its clothing to charge customers $42 for each pair of jeans, Levi Strauss & Co. would be practicing",
+               "options": [
+                  "resale price maintenance.",
+                  "fixed retail pricing.",
+                  "tying.",
+                  "cost plus pricing."
+               ],
+               "answer": "resale price maintenance.",
+               "explanation": ""
+            },
+            {
+               "q_num": 33,
+               "topic": "Resale price maintenance",
+               "type": "mcq",
+               "question": "Acme Computer Co. sells computers to retail stores for $400. If Acme requires the retailers to charge custom- ers $500 for the computers, then it is engaging in",
+               "options": [
+                  "resale price maintenance.",
+                  "predatory pricing.",
+                  "tying.",
+                  "monopolistic competition."
+               ],
+               "answer": "resale price maintenance.",
+               "explanation": ""
+            },
+            {
+               "q_num": 34,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Predatory pricing refers to",
+               "options": [
+                  "a firm selling certain products together rather than separately.",
+                  "a monopoly firm reducing its price in an attempt to maintain its monopoly.",
+                  "firms colluding to set prices.",
+                  "All of the above are examples of predatory pricing."
+               ],
+               "answer": "a monopoly firm reducing its price in an attempt to maintain its monopoly.",
+               "explanation": ""
+            },
+            {
+               "q_num": 35,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Predatory pricing occurs when a firm",
+               "options": [
+                  "exercises its oligopoly power by raising its price through the formation of a cartel.",
+                  "exercises its monopoly power by raising its price.",
+                  "cuts its prices in order make itself more competitive.",
+                  "cuts its prices temporarily in order to drive out any competition."
+               ],
+               "answer": "cuts its prices temporarily in order to drive out any competition.",
+               "explanation": ""
+            },
+            {
+               "q_num": 36,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Although the practice of predatory pricing is a common claim in antitrust suits, some economists are skeptical of this argument because they believe",
+               "options": [
+                  "the evidence of its practice is nearly impossible to collect.",
+                  "predatory pricing is not a profitable business strategy.",
+                  "\"even though predatory pricing is a profitable business strategy, it is on balance beneficial to society.\"",
+                  "predatory pricing actually attracts new firms to the industry."
+               ],
+               "answer": "predatory pricing is not a profitable business strategy.",
+               "explanation": ""
+            },
+            {
+               "q_num": 37,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Consider a market served by a monopolist, Firm A. A new firm, Firm B, enters the market and, as a result, Firm A lowers its price to try to drive Firm B out of the market. This practice is known as",
+               "options": [
+                  "resale price maintenance.",
+                  "predatory tying.",
+                  "tying.",
+                  "predatory pricing."
+               ],
+               "answer": "predatory pricing.",
+               "explanation": ""
+            },
+            {
+               "q_num": 38,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Which of the following questions about predatory pricing remains unresolved?",
+               "options": [
+                  "Are the courts capable of determining which price cuts are competitive and which are predatory?",
+                  "Are the courts capable of determining which price cuts are good for consumers?",
+                  "Is predatory pricing ever a profitable business strategy?",
+                  "All of the above questions about predatory pricing are unresolved."
+               ],
+               "answer": "All of the above questions about predatory pricing are unresolved.",
+               "explanation": ""
+            },
+            {
+               "q_num": 39,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Predatory pricing occurs when",
+               "options": [
+                  "firms collude to set prices. Economists are certain this practice is profitable.",
+                  "firms collude to set prices. Economists are skeptical that this practice is profitable.",
+                  "A monopolist decreases its prices to maintain its monopoly. Economists are certain this practice is,profitable.",
+                  "A monopolist decreases its prices to maintain its monopoly. Economists are skeptical that this practice is profitable."
+               ],
+               "answer": "A monopolist decreases its prices to maintain its monopoly. Economists are skeptical that this practice is profitable.",
+               "explanation": ""
+            },
+            {
+               "q_num": 40,
+               "topic": "Predatory pricing",
+               "type": "mcq",
+               "question": "Predatory pricing involves a firm",
+               "options": [
+                  "colluding with another firm to restrict output and raise prices.",
+                  "selling two individual products together for a single price rather than selling each product,individually at separate prices.",
+                  "temporarily cutting the price of its product to drive a competitor out of the market.",
+                  "requiring that the firm reselling its product do so at a specified price."
+               ],
+               "answer": "temporarily cutting the price of its product to drive a competitor out of the market.",
+               "explanation": ""
+            },
+            {
+               "q_num": 41,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "The practice of requiring someone to buy two or more items together, rather than separately, is called",
+               "options": [
+                  "resale maintenance.",
+                  "product fixing.",
+                  "tying.",
+                  "free-riding."
+               ],
+               "answer": "tying.",
+               "explanation": ""
+            },
+            {
+               "q_num": 42,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "The practice of tying is illegal on the grounds that",
+               "options": [
+                  "it allows firms to expand their market power.",
+                  "it allows firms to form collusive arrangements.",
+                  "it prevents firms from forming collusive agreements.",
+                  "the Sherman Act explicitly prohibited such agreements."
+               ],
+               "answer": "it allows firms to expand their market power.",
+               "explanation": ""
+            },
+            {
+               "q_num": 43,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "Tying involves a firm",
+               "options": [
+                  "colluding with another firm to restrict output and raise prices.",
+                  "selling two individual products together for a single price rather than selling each product,individually at separate prices.",
+                  "temporarily cutting the price of its product to drive a competitor out of the market.",
+                  "requiring that the firm reselling its product do so at a specified price."
+               ],
+               "answer": "selling two individual products together for a single price rather than selling each product,individually at separate prices.",
+               "explanation": ""
+            },
+            {
+               "q_num": 44,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "The argument that consumers will not be willing to pay any more for two items sold as one than they would for the two items sold separately is used to justify the legality of which of the following?",
+               "options": [
+                  "resale price maintenance",
+                  "tying",
+                  "predatory pricing",
+                  "free-riding"
+               ],
+               "answer": "tying",
+               "explanation": ""
+            },
+            {
+               "q_num": 45,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "The practice of tying is used to",
+               "options": [
+                  "enhance the enforcement of antitrust laws.",
+                  "encourage the enforcement of collusive agreements.",
+                  "control the retail price of a collection of related products.",
+                  "package products to sell at a combined price closer to a buyer's total willingness to pay."
+               ],
+               "answer": "package products to sell at a combined price closer to a buyer's total willingness to pay.",
+               "explanation": ""
+            },
+            {
+               "q_num": 46,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "Scenario 17-5\nAssume that a local bank sells two services, checking accounts and ATM card services. The bank’s only two customers are Mr. Donethat and Ms. Beenthere. Mr. Donethat is willing to pay $8 a month for the bank to service his checking account and $2 a month for unlimited use of his ATM card. Ms. Beenthere is willing to pay only $5 for a checking account, but is willing to pay $9 for unlimited use of her ATM card. Assume that the bank can provide each of these services at zero marginal cost.\nRefer to Scenario 17-5 . If the bank is unable to use tying, what is the profit-maximizing price to charge for a checking account?",
+               "options": [
+                  "$13",
+                  "$9",
+                  "$8",
+                  "$5"
+               ],
+               "answer": "$5",
+               "explanation": ""
+            },
+            {
+               "q_num": 47,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "Scenario 17-5\nAssume that a local bank sells two services, checking accounts and ATM card services. The bank’s only two customers are Mr. Donethat and Ms. Beenthere. Mr. Donethat is willing to pay $8 a month for the bank to service his checking account and $2 a month for unlimited use of his ATM card. Ms. Beenthere is willing to pay only $5 for a checking account, but is willing to pay $9 for unlimited use of her ATM card. Assume that the bank can provide each of these services at zero marginal cost.\nRefer to Scenario 17-5 . If the bank is unable to use tying, what is the profit-maximizing price to charge for unlimited use of an ATM card?",
+               "options": [
+                  "$14",
+                  "$11",
+                  "$9",
+                  "$2"
+               ],
+               "answer": "$9",
+               "explanation": ""
+            },
+            {
+               "q_num": 48,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "Scenario 17-5\nAssume that a local bank sells two services, checking accounts and ATM card services. The bank’s only two customers are Mr. Donethat and Ms. Beenthere. Mr. Donethat is willing to pay $8 a month for the bank to service his checking account and $2 a month for unlimited use of his ATM card. Ms. Beenthere is willing to pay only $5 for a checking account, but is willing to pay $9 for unlimited use of her ATM card. Assume that the bank can provide each of these services at zero marginal cost.\nRefer to Scenario 17-5 . If the bank is able to use tying to price checking account and ATM services, what is the profit-maximizing price to charge for the \"tied\" good?",
+               "options": [
+                  "$14",
+                  "$10",
+                  "$9",
+                  "$8"
+               ],
+               "answer": "$10",
+               "explanation": ""
+            },
+            {
+               "q_num": 49,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "Scenario 17-5\nAssume that a local bank sells two services, checking accounts and ATM card services. The bank’s only two customers are Mr. Donethat and Ms. Beenthere. Mr. Donethat is willing to pay $8 a month for the bank to service his checking account and $2 a month for unlimited use of his ATM card. Ms. Beenthere is willing to pay only $5 for a checking account, but is willing to pay $9 for unlimited use of her ATM card. Assume that the bank can provide each of these services at zero marginal cost.\nRefer to Scenario 17-5 . How much additional profit can the bank earn by switching to the use of a tying strat- egy to price checking accounts and ATM service rather than pricing these services separately?",
+               "options": [
+                  "$14",
+                  "$11",
+                  "$7",
+                  "$1"
+               ],
+               "answer": "$1",
+               "explanation": ""
+            },
+            {
+               "q_num": 50,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "A particular cable TV company requires a household to subscribe to its high-speed Internet service if it sub- scribes to cable TV, and vice versa. This practice",
+               "options": [
+                  "is referred to as tying.",
+                  "is regarded by some economists as a form of price discrimination.",
+                  "is controversial among economists because they disagree on whether it has adverse effects for,society as a whole.",
+                  "All of the above are correct."
+               ],
+               "answer": "All of the above are correct.",
+               "explanation": ""
+            },
+            {
+               "q_num": 51,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "Suppose that Makemoney Movies produces two new films — The Hulk and The Piano . Makemoney offers theaters the two films together at a single price but will not supply the movies separately. What do economists call this business practice?",
+               "options": [
+                  "predatory pricing",
+                  "resale price maintenance",
+                  "tying",
+                  "leverage"
+               ],
+               "answer": "tying",
+               "explanation": ""
+            },
+            {
+               "q_num": 52,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "OPEC is able to raise the price of its product by",
+               "options": [
+                  "tying.",
+                  "setting production levels for each of its members.",
+                  "increasing the supply of oil above the competitive level.",
+                  "imposing resale price maintenance agreements on members."
+               ],
+               "answer": "setting production levels for each of its members.",
+               "explanation": ""
+            },
+            {
+               "q_num": 53,
+               "topic": "Cartels",
+               "type": "mcq",
+               "question": "All cartels are inherently reliant on",
+               "options": [
+                  "a horizontal demand curve.",
+                  "an inelastic demand for their product.",
+                  "the cooperation of their members.",
+                  "enforcement of antitrust laws."
+               ],
+               "answer": "the cooperation of their members.",
+               "explanation": ""
+            },
+            {
+               "q_num": 54,
+               "topic": "Oligopoly",
+               "type": "mcq",
+               "question": "In 1971, Congress passed a law that banned cigarette advertising on television. After the ban it is most likely that the\n(i) profits of cigarette companies increased.\n(ii) prices of cigarettes increased.\n(iii) total costs incurred by cigarette companies increased.",
+               "options": [
+                  "(i) only",
+                  "(i) and (ii)",
+                  "(ii) and (iii)",
+                  "\"(i), (ii), and (iii)\""
+               ],
+               "answer": "(i) only",
+               "explanation": ""
+            },
+            {
+               "q_num": 55,
+               "topic": "Tying",
+               "type": "mcq",
+               "question": "A central issue in the Microsoft antitrust lawsuit involved Microsoft's integration of its Internet browser into its Windows operating system, to be sold as one unit. This practice is known as",
+               "options": [
+                  "tying.",
+                  "predation.",
+                  "wholesale maintenance.",
+                  "retail maintenance."
+               ],
+               "answer": "tying.",
+               "explanation": ""
+            },
+            {
+               "q_num": 56,
+               "topic": "Antitrust",
+               "type": "mcq",
+               "question": "In the U.S. government’s 1998 suit against the Microsoft Corporation, a central issue was whether Microsoft should be allowed to integrate its Internet browser into its Windows operating system. Microsoft responded that",
+               "options": [
+                  "\"this integration of products is an example of tying, and the U.S. Supreme Court has consistently ruled that tying is a perfectly acceptable and legal business practice.\"",
+                  "\"this integration of products is an example of resale price maintenance, and the U.S. Supreme Court has consistently ruled that fair trade is a perfectly acceptable and legal business practice.\"",
+                  "putting new features into old products is a natural part of technological practice.",
+                  "\"it would discontinue this integration of products, provided a speedy resolution of the government’s case could be reached.\""
+               ],
+               "answer": "putting new features into old products is a natural part of technological practice.",
+               "explanation": ""
+            }
+         ]
+      }
+   }
+}
